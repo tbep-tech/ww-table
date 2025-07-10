@@ -1,0 +1,364 @@
+---
+title: "Tampa Bay Wastewater Facility Tables"
+format: 
+  html:
+    theme: cosmo
+    toc: true
+    page-layout: full
+    code-tools: true
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+```{r setup, include=FALSE}
+# Load required packages
+library(tidyverse)
+library(reactable)
+library(reactablefmtr)
+library(htmltools)
+library(here)
+```
+
+All data obtained from SWFWMD, original (PDF untidy) available [here](https://www.swfwmd.state.fl.us/sites/default/files/medias/documents/2025%20RWSP%20Appendix%204-1%20Reuse%20Estimates%20and%20Projections%20Public%20Draft%20FINAL.pdf).  Source repository [here](https://github.com/tbep-tech/ww-table).
+
+### Table 4.1
+
+[Download Tidy Data](https://github.com/tbep-tech/ww-table/raw/refs/heads/main/data/tab41tb.csv){.download}
+
+```{r data-and-table-41}
+# Read the CSV file
+data <- read_csv(here("data/tab41tb.csv"))
+
+# Clean and prepare the data
+data_clean <- data %>%
+  # Convert FlowMGD to numeric, handling "NA" strings
+  mutate(FlowMGD = case_when(
+    FlowMGD == "NA" ~ 0,  # Convert NA to 0 for summing
+    is.character(FlowMGD) ~ as.numeric(FlowMGD),
+    TRUE ~ as.numeric(FlowMGD)
+  )) %>%
+  # Remove rows with missing essential data
+  filter(!is.na(County), !is.na(Type)) %>%
+  # Replace any remaining NAs with 0
+  mutate(FlowMGD = ifelse(is.na(FlowMGD), 0, FlowMGD))
+
+# Create facility-level data in wide format (not county summary)
+facility_wide <- data_clean %>%
+  unite('colnm', Grouping, Type, sep = '_') %>%
+  pivot_wider(
+    names_from = colnm,
+    values_from = FlowMGD,
+    values_fill = 0
+  ) %>%
+  arrange(County, `Facility Name`)
+
+# Get the grouping information for column headers
+type_groups <- data_clean %>%
+  select(Type, Grouping) %>%
+  distinct() %>%
+  arrange(Grouping, Type)
+
+# Create column groups based on the Grouping variable for unite format
+create_column_groups <- function(data, type_groups) {
+  # Get all column names that follow the "Grouping_Type" pattern
+  all_cols <- names(data)
+  flow_cols <- all_cols[grepl("_", all_cols) & !all_cols %in% c("County", "Facility ID", "Facility Name", "Utility")]
+  
+  # Extract grouping names from the combined column names
+  grouping_names <- unique(sapply(flow_cols, function(x) {
+    parts <- str_split(x, "_", n = 2)[[1]]
+    if(length(parts) >= 2) parts[1] else x
+  }))
+  
+  # Create groups by matching the grouping prefix
+  col_groups <- map(grouping_names, function(group_name) {
+    # Find all columns that start with this grouping name
+    group_cols <- flow_cols[str_starts(flow_cols, paste0(group_name, "_"))]
+    
+    # Special handling for "Facility Information" - add the facility detail columns (excluding Facility ID)
+    if (group_name == "Facility Information") {
+      group_cols <- c("Facility Name", "Utility", group_cols)
+    }
+    
+    colGroup(
+      name = group_name,
+      columns = group_cols
+    )
+  })
+  
+  return(col_groups)
+}
+
+# Create the main interactive table with groupBy County
+create_main_table <- function(data) {
+  # Get flow columns (those with underscore that aren't facility info)
+  all_cols <- names(data)
+  flow_cols <- all_cols[grepl("_", all_cols) & !all_cols %in% c("County", "Facility ID", "Facility Name", "Utility")]
+  
+  # Create column definitions
+  col_defs <- list(
+    County = colDef(
+      name = "County",
+      style = list(fontWeight = "bold"),
+      minWidth = 120,
+      footer = "Total",
+      sticky = "left"
+    ),
+    `Facility ID` = colDef(
+      name = "Facility ID",
+      minWidth = 100,
+      sticky = "left"
+    ),
+    `Facility Name` = colDef(
+      name = "Facility Name",
+      minWidth = 200
+    ),
+    Utility = colDef(
+      name = "Utility",
+      minWidth = 150
+    )
+  )
+  
+  # Add formatting for flow columns with aggregation
+  for (col in flow_cols) {
+    # Extract the Type name for display (everything after the first underscore)
+    type_name <- str_replace(col, "^[^_]+_", "")
+    
+    col_defs[[col]] <- colDef(
+      name = type_name,
+      format = colFormat(digits = 2),
+      minWidth = 90,
+      style = function(value) {
+        if (value == 0) {
+          list(color = "#999", fontStyle = "italic", fontsize = "12px")
+        } else {
+          list(fontsize = "12px")
+        }
+      },
+      aggregated = JS(paste0("function(cellInfo) {
+        var values = cellInfo.subRows.map(function(row) { return row['", col, "']})
+        var total = values.reduce(function(a, b) { return a + b }, 0)
+        return total.toLocaleString('en-US', {maximumFractionDigits: 0})
+      }")),
+      footer = JS(paste0("function(colInfo) {
+        var total = 0
+        colInfo.data.forEach(function(row) {
+          if (row._subRows) {
+            row._subRows.forEach(function(data) {
+              total += data[colInfo.column.id]
+            })
+          } else {
+            total += row[colInfo.column.id]
+          }
+        })
+        return total.toLocaleString('en-US', {maximumFractionDigits: 0})
+      }"))
+    )
+  }
+  
+  # Create the table
+  reactable(
+    data,
+    groupBy = "County",
+    columns = col_defs,
+    columnGroups = create_column_groups(data, type_groups),
+    defaultPageSize = nrow(data),
+    searchable = TRUE,
+    striped = TRUE,
+    highlight = TRUE,
+    bordered = TRUE,
+    resizable = TRUE,
+    filterable = TRUE,
+    defaultExpanded = FALSE,
+    theme = reactableTheme(
+      headerStyle = list(
+        "&:hover" = list(backgroundColor = "#eee")
+      ),
+      groupHeaderStyle = list(
+        # backgroundColor = "#4a90e2",
+        # color = "white",
+        fontWeight = "bold",
+        fontSize = "14px"
+      )
+    ),
+    defaultColDef = colDef(
+      headerStyle = list(
+        background = "#f7f7f8",
+        fontSize = "12px"
+      ),
+      footerStyle = list(fontWeight = "bold"),
+      style = list(fontSize = "12px")
+    ),
+    sortable = FALSE,
+    elementId = "facility-table"
+  )
+}
+
+# Display the main table
+create_main_table(facility_wide)
+```
+
+### Table 4.2
+
+[Download Tidy Data](https://github.com/tbep-tech/ww-table/raw/refs/heads/main/data/tab42tb.csv){.download}
+
+```{r data-and-table-42}
+# Read the second CSV file
+data2 <- read_csv(here("data/tab42tb.csv"))
+
+# Clean and prepare the data
+data2_clean <- data2 %>%
+  # Convert Value to numeric, handling "NA" strings
+  mutate(Value = case_when(
+    Value == "NA" ~ 0,  # Convert NA to 0 for summing
+    is.character(Value) ~ as.numeric(Value),
+    TRUE ~ as.numeric(Value)
+  )) %>%
+  # Remove rows with missing essential data
+  filter(!is.na(County), !is.na(Entry)) %>%
+  # Replace any remaining NAs with 0
+  mutate(Value = ifelse(is.na(Value), 0, Value))
+
+# Create facility-level data in wide format (not county summary)
+facility_wide2 <- data2_clean %>%
+  unite('colnm', Grouping, Entry, sep = '_') %>%
+  pivot_wider(
+    names_from = colnm,
+    values_from = Value,
+    values_fill = 0
+  ) %>%
+  arrange(County, `Facility Name`)
+
+# Get the grouping information for column headers
+entry_groups <- data2_clean %>%
+  select(Entry, Grouping) %>%
+  distinct() %>%
+  arrange(Grouping, Entry)
+
+# Create column groups based on the Grouping variable for unite format (no manual Facility Information group)
+create_column_groups2 <- function(data, entry_groups) {
+  # Get all column names that follow the "Grouping_Entry" pattern
+  all_cols <- names(data)
+  flow_cols <- all_cols[grepl("_", all_cols) & !all_cols %in% c("County", "Facility Name")]
+  
+  # Extract grouping names from the combined column names
+  grouping_names <- unique(sapply(flow_cols, function(x) {
+    parts <- str_split(x, "_", n = 2)[[1]]
+    if(length(parts) >= 2) parts[1] else x
+  }))
+  
+  # Create groups by matching the grouping prefix (no special handling for Facility Information)
+  col_groups <- map(grouping_names, function(group_name) {
+    # Find all columns that start with this grouping name
+    group_cols <- flow_cols[str_starts(flow_cols, paste0(group_name, "_"))]
+    
+    colGroup(
+      name = group_name,
+      columns = group_cols
+    )
+  })
+  
+  return(col_groups)
+}
+
+# Create the main interactive table with groupBy County for table 2
+create_main_table2 <- function(data) {
+  # Get flow columns (those with underscore that aren't facility info)
+  all_cols <- names(data)
+  flow_cols <- all_cols[grepl("_", all_cols) & !all_cols %in% c("County", "Facility Name")]
+  
+  # Create column definitions
+  col_defs <- list(
+    County = colDef(
+      name = "County",
+      style = list(fontWeight = "bold"),
+      minWidth = 120,
+      footer = "Total",
+      sticky = "left"
+    ),
+    `Facility Name` = colDef(
+      name = "Facility Name",
+      minWidth = 200,
+      sticky = "left"
+    )
+  )
+  
+  # Add formatting for flow columns with aggregation
+  for (col in flow_cols) {
+    # Extract the Entry name for display (everything after the first underscore)
+    entry_name <- str_replace(col, "^[^_]+_", "")
+    
+    col_defs[[col]] <- colDef(
+      name = entry_name,
+      minWidth = 90,
+      style = function(value) {
+        if (value == 0) {
+          list(color = "#999", fontStyle = "italic", fontsize = "12px")
+        } else {
+          list(fontsize = "12px")
+        }
+      },
+      aggregated = JS(paste0("function(cellInfo) {
+        var values = cellInfo.subRows.map(function(row) { return row['", col, "']})
+        var total = values.reduce(function(a, b) { return a + b }, 0)
+        return total.toFixed(2)
+      }")),
+      footer = JS(paste0("function(colInfo) {
+        var total = 0
+        colInfo.data.forEach(function(row) {
+          if (row._subRows) {
+            row._subRows.forEach(function(data) {
+              total += data[colInfo.column.id]
+            })
+          } else {
+            total += row[colInfo.column.id]
+          }
+        })
+        return total.toFixed(2)
+      }"))
+    )
+  }
+  
+  # Create the table
+  reactable(
+    data,
+    groupBy = "County",
+    columns = col_defs,
+    columnGroups = create_column_groups2(data, entry_groups),
+    defaultPageSize = nrow(data),
+    searchable = TRUE,
+    striped = TRUE,
+    highlight = TRUE,
+    bordered = TRUE,
+    resizable = TRUE,
+    filterable = TRUE,
+    defaultExpanded = FALSE,
+    theme = reactableTheme(
+      headerStyle = list(
+        "&:hover" = list(backgroundColor = "#eee")
+      ),
+      groupHeaderStyle = list(
+        # backgroundColor = "#4a90e2",
+        # color = "white",
+        fontWeight = "bold",
+        fontSize = "14px"
+      )
+    ),
+    defaultColDef = colDef(
+      headerStyle = list(
+        background = "#f7f7f8",
+        fontSize = "12px"
+      ),
+      footerStyle = list(fontWeight = "bold"),
+      style = list(fontSize = "12px")
+    ),
+    sortable = FALSE,
+    elementId = "facility-table2"
+  )
+}
+
+# Display the second table
+create_main_table2(facility_wide2)
+```
