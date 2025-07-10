@@ -6,6 +6,16 @@ library(tibble)
 
 pth <- "data-raw/2025 RWSP Appendix 4-1 Reuse Estimates and Projections Public Draft FINAL.pdf"
 
+data('facilities', package = 'tbeploads')
+
+facilities <- facilities |>
+  mutate(
+    permit = case_when(
+      permit %in% c('FL0028061LA', 'FL0028061SW') ~ 'FL0028061',
+      T ~ permit
+    )
+  )
+
 # table 4-1 -----------------------------------------------------------------------------------
 
 datraw <- extract_tables(pth, pages = c(2, 3), method = "lattice", output = "tibble")
@@ -142,6 +152,10 @@ tab41 <- bind_rows(dat1, dat2) |>
     values_to = "FlowMGD"
   ) |>
   mutate(
+    `Facility Name` = case_when(
+      `Facility Name` == 'Mantee County - North' ~ 'Manatee County - North',
+      T ~ `Facility Name`
+    ),
     Grouping = case_when(
       Type %in% c('Permitted Capacity') ~ 'Facility Information',
       Type %in% c('Total WW Flow', 'Total Reuse', 'Supplemental Flow', 'Transfers In', 'Transfers Out', 'WW Disposal') ~ '2020 Total Flow - Wastewater, Reuse, Transfers and Disposal',
@@ -156,8 +170,6 @@ write.csv(tab41, 'data/tab41.csv', row.names = FALSE)
 
 #####
 # final table 4-1 for Tampa Bay
-
-data(facilities, package = 'tbeploads')
 
 load(file = 'data/tab41.RData')
 
@@ -410,7 +422,7 @@ nms <- list(
     'Adjusted Service Area Population' = c('2020', '2045', '2020-2045 Population Increase'),
     '2020 Totals' = c('Total WW Flows (MGD)', 'Total Reuse (MGD)', 'Supplemental Flows (MGD)', 'WW Disposal (MGD)'),
     '2045 Projected Additional' = c('WW Flow Projection (MGD)', 'Supplemental Flows (MGD)'),
-    '2045 Projected Totals' = c('Total WW Flows (MGD)', 'Supplemental Flows (MGD)', 'Total Reuse (MGD)', 'Beneficial Reuse @ 75% (MGD)')
+    '2045 Projected Totals' = c('Total WW Flows (MGD)', 'Supplemental Flows (MGD)', 'Total Reuse (MGD)', 'Beneficial Reuse at 75% (MGD)')
   ) |>
   enframe() |>
   unnest('value') |>
@@ -418,9 +430,20 @@ nms <- list(
   pull(name)
 nms <- c('County', 'Facility Name', nms)
 
-tab42 <- bind_rows(dat1raw, dat2raw, dat3raw)
-names(tab42) <- nms
-tab42 <- tab42 |>
+tab42 <- bind_rows(dat1raw, dat2raw, dat3raw) |>
+  setNames(nms) |>
+  mutate(
+    `Facility Name` = case_when(
+      `Facility Name` == 'Pinellas North-Dunn' ~ 'Pinellas North - Dunn',
+      `Facility Name` == 'Pinellas South-Southcross' ~ 'Pinellas South - Southcross',
+      `Facility Name` == 'St. Petersburg Southwest' ~ 'St. Petersburg - Southwest',
+      `Facility Name` == 'St. Petersburg Northwest' ~ 'St. Petersburg - Northwest',
+      `Facility Name` == 'St. Petersburg Northeast' ~ 'St. Petersburg - Northeast',
+      `Facility Name` == 'Manatee County Southeast' ~ 'Manatee County - Southeast',
+      `Facility Name` == 'Mantee County North' ~ 'Manatee County - North',
+      T ~ `Facility Name`
+    )
+  ) |>
   pivot_longer(
     cols = -c(County, `Facility Name`),
     names_to = "Grouping",
@@ -431,15 +454,37 @@ tab42 <- tab42 |>
 save(tab42, file = 'data/tab42.RData')
 write.csv(tab42, 'data/tab42.csv', row.names = FALSE)
 
-# #####
-# # final table 4-2 for Tampa Bay
+#####
+# final table 4-2 for Tampa Bay
+
+load(file = 'data/tab41tb.RData')
+load(file = 'data/tab42.RData')
+
+tab42tb <- tab42 |>
+  filter(`Facility Name` %in% tab41tb$`Facility Name`)
+
+save(tab42tb, file = 'data/tab42tb.RData')
+write.csv(tab42tb, 'data/tab42tb.csv', row.names = FALSE)
+
+# # comparison ----------------------------------------------------------------------------------
 #
-# data(facilities, package = 'tbeploads')
+# load(file = 'data/tab41tb.RData')
+# load(file = 'data/tab42tb.RData')
 #
-# load(file = 'data/tab42.RData')
+# # make sure facility names between the two are shared
+# tab41nm <- unique(tab41tb$`Facility Name`)
+# tab42nm <- unique(tab42tb$`Facility Name`)
+# setdiff(tab41nm, tab42nm)
 #
-# tab42tb <- tab42 |>
-#   filter(`Facility ID` %in% facilities$permit)
+# # see which facilities are missing (these are likely closed)
+# facsnmc <- facilities |>
+#   filter(grepl('^PS\\s\\-\\sDomestic', source)) |>
+#   select(entity, facname, permit, facid) |>
+#   distinct()
 #
-# save(tab42tb, file = 'data/tab42tb.RData')
-# write.csv(tab42tb, 'data/tab42tb.csv', row.names = FALSE)
+# facstbl <- tab41tb |>
+#   select(County, `Facility ID`, `Facility Name`, Utility) |>
+#   distinct()
+#
+# tmp <- anti_join(facsnmc, facstbl, by = c('permit' = 'Facility ID'))
+

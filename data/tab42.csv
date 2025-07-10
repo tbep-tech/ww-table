@@ -15,7 +15,7 @@
 "Citrus","Beverly Hills","2045 Projected Totals","Total WW Flows (MGD)",0.62
 "Citrus","Beverly Hills","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Citrus","Beverly Hills","2045 Projected Totals","Total Reuse (MGD)",0.62
-"Citrus","Beverly Hills","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.46
+"Citrus","Beverly Hills","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.46
 "Citrus","Citrus County - Brentwood","Total Service Area Population","2020",NA
 "Citrus","Citrus County - Brentwood","Total Service Area Population","2045",NA
 "Citrus","Citrus County - Brentwood","Septic Population","2020",NA
@@ -32,7 +32,7 @@
 "Citrus","Citrus County - Brentwood","2045 Projected Totals","Total WW Flows (MGD)",0.4
 "Citrus","Citrus County - Brentwood","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Citrus","Citrus County - Brentwood","2045 Projected Totals","Total Reuse (MGD)",0.4
-"Citrus","Citrus County - Brentwood","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.3
+"Citrus","Citrus County - Brentwood","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.3
 "Citrus","Citrus County - Meadowcrest","Total Service Area Population","2020",24874
 "Citrus","Citrus County - Meadowcrest","Total Service Area Population","2045",30140
 "Citrus","Citrus County - Meadowcrest","Septic Population","2020",7179
@@ -49,7 +49,7 @@
 "Citrus","Citrus County - Meadowcrest","2045 Projected Totals","Total WW Flows (MGD)",1.06
 "Citrus","Citrus County - Meadowcrest","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Citrus","Citrus County - Meadowcrest","2045 Projected Totals","Total Reuse (MGD)",1.03
-"Citrus","Citrus County - Meadowcrest","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.77
+"Citrus","Citrus County - Meadowcrest","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.77
 "Citrus","Citrus County - Point O' Woods","Total Service Area Population","2020",749
 "Citrus","Citrus County - Point O' Woods","Total Service Area Population","2045",825
 "Citrus","Citrus County - Point O' Woods","Septic Population","2020",201
@@ -66,7 +66,7 @@
 "Citrus","Citrus County - Point O' Woods","2045 Projected Totals","Total WW Flows (MGD)",0.03
 "Citrus","Citrus County - Point O' Woods","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Citrus","Citrus County - Point O' Woods","2045 Projected Totals","Total Reuse (MGD)",0.02
-"Citrus","Citrus County - Point O' Woods","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.01
+"Citrus","Citrus County - Point O' Woods","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.01
 "Citrus","Citrus County - Sugarmill Woods","Total Service Area Population","2020",9721
 "Citrus","Citrus County - Sugarmill Woods","Total Service Area Population","2045",10784
 "Citrus","Citrus County - Sugarmill Woods","Septic Population","2020",14
@@ -83,7 +83,7 @@
 "Citrus","Citrus County - Sugarmill Woods","2045 Projected Totals","Total WW Flows (MGD)",0.77
 "Citrus","Citrus County - Sugarmill Woods","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Citrus","Citrus County - Sugarmill Woods","2045 Projected Totals","Total Reuse (MGD)",0.07
-"Citrus","Citrus County - Sugarmill Woods","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.06
+"Citrus","Citrus County - Sugarmill Woods","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.06
 "Citrus","Crystal River","Total Service Area Population","2020",3152
 "Citrus","Crystal River","Total Service Area Population","2045",3848
 "Citrus","Crystal River","Septic Population","2020",9
@@ -100,7 +100,7 @@
 "Citrus","Crystal River","2045 Projected Totals","Total WW Flows (MGD)",0.71
 "Citrus","Crystal River","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Citrus","Crystal River","2045 Projected Totals","Total Reuse (MGD)",0.35
-"Citrus","Crystal River","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.26
+"Citrus","Crystal River","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.26
 "Citrus","Inverness","Total Service Area Population","2020",7267
 "Citrus","Inverness","Total Service Area Population","2045",9386
 "Citrus","Inverness","Septic Population","2020",412
@@ -117,7 +117,7 @@
 "Citrus","Inverness","2045 Projected Totals","Total WW Flows (MGD)",0.68
 "Citrus","Inverness","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Citrus","Inverness","2045 Projected Totals","Total Reuse (MGD)",0.35
-"Citrus","Inverness","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.26
+"Citrus","Inverness","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.26
 "Hernando","Brooksville","Total Service Area Population","2020",13393
 "Hernando","Brooksville","Total Service Area Population","2045",18923
 "Hernando","Brooksville","Septic Population","2020",1120
@@ -134,7 +134,7 @@
 "Hernando","Brooksville","2045 Projected Totals","Total WW Flows (MGD)",1.37
 "Hernando","Brooksville","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Hernando","Brooksville","2045 Projected Totals","Total Reuse (MGD)",1.37
-"Hernando","Brooksville","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",1.03
+"Hernando","Brooksville","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",1.03
 "Hernando","Hernando County - Airport","Total Service Area Population","2020",138288
 "Hernando","Hernando County - Airport","Total Service Area Population","2045",151104
 "Hernando","Hernando County - Airport","Septic Population","2020",68785
@@ -151,7 +151,7 @@
 "Hernando","Hernando County - Airport","2045 Projected Totals","Total WW Flows (MGD)",2.53
 "Hernando","Hernando County - Airport","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Hernando","Hernando County - Airport","2045 Projected Totals","Total Reuse (MGD)",0.88
-"Hernando","Hernando County - Airport","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.66
+"Hernando","Hernando County - Airport","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.66
 "Hernando","Hernando County - Brookridge","Total Service Area Population","2020",NA
 "Hernando","Hernando County - Brookridge","Total Service Area Population","2045",NA
 "Hernando","Hernando County - Brookridge","Septic Population","2020",NA
@@ -168,7 +168,7 @@
 "Hernando","Hernando County - Brookridge","2045 Projected Totals","Total WW Flows (MGD)",0.19
 "Hernando","Hernando County - Brookridge","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Hernando","Hernando County - Brookridge","2045 Projected Totals","Total Reuse (MGD)",NA
-"Hernando","Hernando County - Brookridge","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",NA
+"Hernando","Hernando County - Brookridge","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",NA
 "Hernando","Hernando County - Glenn","Total Service Area Population","2020",NA
 "Hernando","Hernando County - Glenn","Total Service Area Population","2045",NA
 "Hernando","Hernando County - Glenn","Septic Population","2020",NA
@@ -185,7 +185,7 @@
 "Hernando","Hernando County - Glenn","2045 Projected Totals","Total WW Flows (MGD)",1.05
 "Hernando","Hernando County - Glenn","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Hernando","Hernando County - Glenn","2045 Projected Totals","Total Reuse (MGD)",NA
-"Hernando","Hernando County - Glenn","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",NA
+"Hernando","Hernando County - Glenn","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",NA
 "Hernando","Hernando County - Ridge Manor","Total Service Area Population","2020",NA
 "Hernando","Hernando County - Ridge Manor","Total Service Area Population","2045",NA
 "Hernando","Hernando County - Ridge Manor","Septic Population","2020",NA
@@ -202,7 +202,7 @@
 "Hernando","Hernando County - Ridge Manor","2045 Projected Totals","Total WW Flows (MGD)",0.25
 "Hernando","Hernando County - Ridge Manor","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Hernando","Hernando County - Ridge Manor","2045 Projected Totals","Total Reuse (MGD)",NA
-"Hernando","Hernando County - Ridge Manor","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",NA
+"Hernando","Hernando County - Ridge Manor","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",NA
 "Hernando","Hernando County - Spring Hill","Total Service Area Population","2020",NA
 "Hernando","Hernando County - Spring Hill","Total Service Area Population","2045",NA
 "Hernando","Hernando County - Spring Hill","Septic Population","2020",NA
@@ -219,7 +219,7 @@
 "Hernando","Hernando County - Spring Hill","2045 Projected Totals","Total WW Flows (MGD)",1.41
 "Hernando","Hernando County - Spring Hill","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Hernando","Hernando County - Spring Hill","2045 Projected Totals","Total Reuse (MGD)",1.32
-"Hernando","Hernando County - Spring Hill","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.99
+"Hernando","Hernando County - Spring Hill","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.99
 "Levy","Williston","Total Service Area Population","2020",4610
 "Levy","Williston","Total Service Area Population","2045",5634
 "Levy","Williston","Septic Population","2020",559
@@ -236,7 +236,7 @@
 "Levy","Williston","2045 Projected Totals","Total WW Flows (MGD)",0.29
 "Levy","Williston","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Levy","Williston","2045 Projected Totals","Total Reuse (MGD)",0.07
-"Levy","Williston","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.05
+"Levy","Williston","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.05
 "Marion","FGUA - Dunnellon","Total Service Area Population","2020",6100
 "Marion","FGUA - Dunnellon","Total Service Area Population","2045",7253
 "Marion","FGUA - Dunnellon","Septic Population","2020",1636
@@ -253,7 +253,7 @@
 "Marion","FGUA - Dunnellon","2045 Projected Totals","Total WW Flows (MGD)",0.24
 "Marion","FGUA - Dunnellon","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Marion","FGUA - Dunnellon","2045 Projected Totals","Total Reuse (MGD)",0.06
-"Marion","FGUA - Dunnellon","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.05
+"Marion","FGUA - Dunnellon","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.05
 "Marion","Marion County - NW Regional","Total Service Area Population","2020",NA
 "Marion","Marion County - NW Regional","Total Service Area Population","2045",NA
 "Marion","Marion County - NW Regional","Septic Population","2020",NA
@@ -270,7 +270,7 @@
 "Marion","Marion County - NW Regional","2045 Projected Totals","Total WW Flows (MGD)",0.08
 "Marion","Marion County - NW Regional","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Marion","Marion County - NW Regional","2045 Projected Totals","Total Reuse (MGD)",0.08
-"Marion","Marion County - NW Regional","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.06
+"Marion","Marion County - NW Regional","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.06
 "Marion","Marion County - Oak Run","Total Service Area Population","2020",42193
 "Marion","Marion County - Oak Run","Total Service Area Population","2045",60232
 "Marion","Marion County - Oak Run","Septic Population","2020",17208
@@ -287,7 +287,7 @@
 "Marion","Marion County - Oak Run","2045 Projected Totals","Total WW Flows (MGD)",2.17
 "Marion","Marion County - Oak Run","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Marion","Marion County - Oak Run","2045 Projected Totals","Total Reuse (MGD)",1.79
-"Marion","Marion County - Oak Run","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",1.35
+"Marion","Marion County - Oak Run","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",1.35
 "Marion","Ocala #3","Total Service Area Population","2020",NA
 "Marion","Ocala #3","Total Service Area Population","2045",NA
 "Marion","Ocala #3","Septic Population","2020",NA
@@ -304,7 +304,7 @@
 "Marion","Ocala #3","2045 Projected Totals","Total WW Flows (MGD)",2.29
 "Marion","Ocala #3","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Marion","Ocala #3","2045 Projected Totals","Total Reuse (MGD)",2.29
-"Marion","Ocala #3","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",1.71
+"Marion","Ocala #3","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",1.71
 "Marion","On Top of the World Ocala (Bay Laurel)","Total Service Area Population","2020",11862
 "Marion","On Top of the World Ocala (Bay Laurel)","Total Service Area Population","2045",20742
 "Marion","On Top of the World Ocala (Bay Laurel)","Septic Population","2020",633
@@ -321,7 +321,7 @@
 "Marion","On Top of the World Ocala (Bay Laurel)","2045 Projected Totals","Total WW Flows (MGD)",1.03
 "Marion","On Top of the World Ocala (Bay Laurel)","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Marion","On Top of the World Ocala (Bay Laurel)","2045 Projected Totals","Total Reuse (MGD)",0.85
-"Marion","On Top of the World Ocala (Bay Laurel)","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.64
+"Marion","On Top of the World Ocala (Bay Laurel)","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.64
 "Marion","FGUA - Dunellon/Rainbow Springs","Total Service Area Population","2020",3715
 "Marion","FGUA - Dunellon/Rainbow Springs","Total Service Area Population","2045",4969
 "Marion","FGUA - Dunellon/Rainbow Springs","Septic Population","2020",1102
@@ -338,7 +338,7 @@
 "Marion","FGUA - Dunellon/Rainbow Springs","2045 Projected Totals","Total WW Flows (MGD)",0.22
 "Marion","FGUA - Dunellon/Rainbow Springs","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Marion","FGUA - Dunellon/Rainbow Springs","2045 Projected Totals","Total Reuse (MGD)",0.09
-"Marion","FGUA - Dunellon/Rainbow Springs","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.07
+"Marion","FGUA - Dunellon/Rainbow Springs","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.07
 "Sumter","Bushnell - Hanson","Total Service Area Population","2020",5252
 "Sumter","Bushnell - Hanson","Total Service Area Population","2045",8511
 "Sumter","Bushnell - Hanson","Septic Population","2020",1515
@@ -355,7 +355,7 @@
 "Sumter","Bushnell - Hanson","2045 Projected Totals","Total WW Flows (MGD)",0.5
 "Sumter","Bushnell - Hanson","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Sumter","Bushnell - Hanson","2045 Projected Totals","Total Reuse (MGD)",0.22
-"Sumter","Bushnell - Hanson","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.16
+"Sumter","Bushnell - Hanson","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.16
 "Sumter","Sumter Correctional","Total Service Area Population","2020",NA
 "Sumter","Sumter Correctional","Total Service Area Population","2045",NA
 "Sumter","Sumter Correctional","Septic Population","2020",NA
@@ -372,7 +372,7 @@
 "Sumter","Sumter Correctional","2045 Projected Totals","Total WW Flows (MGD)",0.31
 "Sumter","Sumter Correctional","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Sumter","Sumter Correctional","2045 Projected Totals","Total Reuse (MGD)",0.21
-"Sumter","Sumter Correctional","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.16
+"Sumter","Sumter Correctional","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.16
 "Sumter","Villages Little Sumter","Total Service Area Population","2020",NA
 "Sumter","Villages Little Sumter","Total Service Area Population","2045",NA
 "Sumter","Villages Little Sumter","Septic Population","2020",NA
@@ -389,7 +389,7 @@
 "Sumter","Villages Little Sumter","2045 Projected Totals","Total WW Flows (MGD)",1.54
 "Sumter","Villages Little Sumter","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Sumter","Villages Little Sumter","2045 Projected Totals","Total Reuse (MGD)",1.42
-"Sumter","Villages Little Sumter","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",1.06
+"Sumter","Villages Little Sumter","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",1.06
 "Sumter","Villages Central Sumter","Total Service Area Population","2020",NA
 "Sumter","Villages Central Sumter","Total Service Area Population","2045",NA
 "Sumter","Villages Central Sumter","Septic Population","2020",NA
@@ -406,7 +406,7 @@
 "Sumter","Villages Central Sumter","2045 Projected Totals","Total WW Flows (MGD)",1.24
 "Sumter","Villages Central Sumter","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Sumter","Villages Central Sumter","2045 Projected Totals","Total Reuse (MGD)",1.24
-"Sumter","Villages Central Sumter","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.93
+"Sumter","Villages Central Sumter","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.93
 "Sumter","Villages North Sumter","Total Service Area Population","2020",69780
 "Sumter","Villages North Sumter","Total Service Area Population","2045",86187
 "Sumter","Villages North Sumter","Septic Population","2020",25
@@ -423,7 +423,7 @@
 "Sumter","Villages North Sumter","2045 Projected Totals","Total WW Flows (MGD)",2.75
 "Sumter","Villages North Sumter","2045 Projected Totals","Supplemental Flows (MGD)",1.15
 "Sumter","Villages North Sumter","2045 Projected Totals","Total Reuse (MGD)",5.05
-"Sumter","Villages North Sumter","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",3.79
+"Sumter","Villages North Sumter","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",3.79
 "Sumter","Villages South Sumter","Total Service Area Population","2020",14967
 "Sumter","Villages South Sumter","Total Service Area Population","2045",24726
 "Sumter","Villages South Sumter","Septic Population","2020",NA
@@ -440,7 +440,7 @@
 "Sumter","Villages South Sumter","2045 Projected Totals","Total WW Flows (MGD)",0.68
 "Sumter","Villages South Sumter","2045 Projected Totals","Supplemental Flows (MGD)",1.9
 "Sumter","Villages South Sumter","2045 Projected Totals","Total Reuse (MGD)",4.48
-"Sumter","Villages South Sumter","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",3.36
+"Sumter","Villages South Sumter","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",3.36
 "Sumter","Wildwood","Total Service Area Population","2020",21093
 "Sumter","Wildwood","Total Service Area Population","2045",50269
 "Sumter","Wildwood","Septic Population","2020",5287
@@ -457,7 +457,7 @@
 "Sumter","Wildwood","2045 Projected Totals","Total WW Flows (MGD)",2.89
 "Sumter","Wildwood","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Sumter","Wildwood","2045 Projected Totals","Total Reuse (MGD)",1.67
-"Sumter","Wildwood","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",1.25
+"Sumter","Wildwood","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",1.25
 "Sumter","Continental CC - Wildwood","Total Service Area Population","2020",NA
 "Sumter","Continental CC - Wildwood","Total Service Area Population","2045",NA
 "Sumter","Continental CC - Wildwood","Septic Population","2020",NA
@@ -474,7 +474,7 @@
 "Sumter","Continental CC - Wildwood","2045 Projected Totals","Total WW Flows (MGD)",0.11
 "Sumter","Continental CC - Wildwood","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Sumter","Continental CC - Wildwood","2045 Projected Totals","Total Reuse (MGD)",NA
-"Sumter","Continental CC - Wildwood","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",NA
+"Sumter","Continental CC - Wildwood","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",NA
 "Hardee","Bowling Green","Total Service Area Population","2020",3018
 "Hardee","Bowling Green","Total Service Area Population","2045",3018
 "Hardee","Bowling Green","Septic Population","2020",44
@@ -491,7 +491,7 @@
 "Hardee","Bowling Green","2045 Projected Totals","Total WW Flows (MGD)",0.19
 "Hardee","Bowling Green","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Hardee","Bowling Green","2045 Projected Totals","Total Reuse (MGD)",NA
-"Hardee","Bowling Green","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",NA
+"Hardee","Bowling Green","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",NA
 "Hardee","Hardee Correctional","Total Service Area Population","2020",NA
 "Hardee","Hardee Correctional","Total Service Area Population","2045",NA
 "Hardee","Hardee Correctional","Septic Population","2020",NA
@@ -508,7 +508,7 @@
 "Hardee","Hardee Correctional","2045 Projected Totals","Total WW Flows (MGD)",0.19
 "Hardee","Hardee Correctional","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Hardee","Hardee Correctional","2045 Projected Totals","Total Reuse (MGD)",NA
-"Hardee","Hardee Correctional","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",NA
+"Hardee","Hardee Correctional","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",NA
 "Hardee","Wauchula","Total Service Area Population","2020",6637
 "Hardee","Wauchula","Total Service Area Population","2045",6793
 "Hardee","Wauchula","Septic Population","2020",279
@@ -525,7 +525,7 @@
 "Hardee","Wauchula","2045 Projected Totals","Total WW Flows (MGD)",0.54
 "Hardee","Wauchula","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Hardee","Wauchula","2045 Projected Totals","Total Reuse (MGD)",0.54
-"Hardee","Wauchula","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.41
+"Hardee","Wauchula","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.41
 "Hardee","Hardee County - Wauchula Hills","Total Service Area Population","2020",1902
 "Hardee","Hardee County - Wauchula Hills","Total Service Area Population","2045",1917
 "Hardee","Hardee County - Wauchula Hills","Septic Population","2020",191
@@ -542,7 +542,7 @@
 "Hardee","Hardee County - Wauchula Hills","2045 Projected Totals","Total WW Flows (MGD)",0.12
 "Hardee","Hardee County - Wauchula Hills","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Hardee","Hardee County - Wauchula Hills","2045 Projected Totals","Total Reuse (MGD)",0.12
-"Hardee","Hardee County - Wauchula Hills","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.09
+"Hardee","Hardee County - Wauchula Hills","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.09
 "Hardee","Zolfo Springs","Total Service Area Population","2020",1750
 "Hardee","Zolfo Springs","Total Service Area Population","2045",1751
 "Hardee","Zolfo Springs","Septic Population","2020",3
@@ -559,7 +559,7 @@
 "Hardee","Zolfo Springs","2045 Projected Totals","Total WW Flows (MGD)",0.11
 "Hardee","Zolfo Springs","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Hardee","Zolfo Springs","2045 Projected Totals","Total Reuse (MGD)",0
-"Hardee","Zolfo Springs","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0
+"Hardee","Zolfo Springs","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0
 "Highlands","Avon Park","Total Service Area Population","2020",14535
 "Highlands","Avon Park","Total Service Area Population","2045",15225
 "Highlands","Avon Park","Septic Population","2020",1797
@@ -576,7 +576,7 @@
 "Highlands","Avon Park","2045 Projected Totals","Total WW Flows (MGD)",0.85
 "Highlands","Avon Park","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Highlands","Avon Park","2045 Projected Totals","Total Reuse (MGD)",0.05
-"Highlands","Avon Park","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.03
+"Highlands","Avon Park","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.03
 "Highlands","Lake Placid - North #1","Total Service Area Population","2020",11020
 "Highlands","Lake Placid - North #1","Total Service Area Population","2045",11937
 "Highlands","Lake Placid - North #1","Septic Population","2020",2956
@@ -593,7 +593,7 @@
 "Highlands","Lake Placid - North #1","2045 Projected Totals","Total WW Flows (MGD)",0.17
 "Highlands","Lake Placid - North #1","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Highlands","Lake Placid - North #1","2045 Projected Totals","Total Reuse (MGD)",0.09
-"Highlands","Lake Placid - North #1","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.07
+"Highlands","Lake Placid - North #1","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.07
 "Highlands","Lake Placid - Tomoka #3","Total Service Area Population","2020",NA
 "Highlands","Lake Placid - Tomoka #3","Total Service Area Population","2045",NA
 "Highlands","Lake Placid - Tomoka #3","Septic Population","2020",NA
@@ -610,7 +610,7 @@
 "Highlands","Lake Placid - Tomoka #3","2045 Projected Totals","Total WW Flows (MGD)",NA
 "Highlands","Lake Placid - Tomoka #3","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Highlands","Lake Placid - Tomoka #3","2045 Projected Totals","Total Reuse (MGD)",NA
-"Highlands","Lake Placid - Tomoka #3","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",NA
+"Highlands","Lake Placid - Tomoka #3","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",NA
 "Highlands","Sebring - Cemetery Rd","Total Service Area Population","2020",37738
 "Highlands","Sebring - Cemetery Rd","Total Service Area Population","2045",41844
 "Highlands","Sebring - Cemetery Rd","Septic Population","2020",6927
@@ -627,7 +627,7 @@
 "Highlands","Sebring - Cemetery Rd","2045 Projected Totals","Total WW Flows (MGD)",1.35
 "Highlands","Sebring - Cemetery Rd","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Highlands","Sebring - Cemetery Rd","2045 Projected Totals","Total Reuse (MGD)",0.3
-"Highlands","Sebring - Cemetery Rd","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",NA
+"Highlands","Sebring - Cemetery Rd","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",NA
 "Highlands","Sebring - Western Blvd","Total Service Area Population","2020",NA
 "Highlands","Sebring - Western Blvd","Total Service Area Population","2045",NA
 "Highlands","Sebring - Western Blvd","Septic Population","2020",NA
@@ -644,7 +644,7 @@
 "Highlands","Sebring - Western Blvd","2045 Projected Totals","Total WW Flows (MGD)",NA
 "Highlands","Sebring - Western Blvd","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Highlands","Sebring - Western Blvd","2045 Projected Totals","Total Reuse (MGD)",NA
-"Highlands","Sebring - Western Blvd","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",NA
+"Highlands","Sebring - Western Blvd","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",NA
 "Highlands","Sun N Lake Plant #1","Total Service Area Population","2020",6709
 "Highlands","Sun N Lake Plant #1","Total Service Area Population","2045",8177
 "Highlands","Sun N Lake Plant #1","Septic Population","2020",142
@@ -661,7 +661,7 @@
 "Highlands","Sun N Lake Plant #1","2045 Projected Totals","Total WW Flows (MGD)",0.41
 "Highlands","Sun N Lake Plant #1","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Highlands","Sun N Lake Plant #1","2045 Projected Totals","Total Reuse (MGD)",0.1
-"Highlands","Sun N Lake Plant #1","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.08
+"Highlands","Sun N Lake Plant #1","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.08
 "Highlands","Sun N Lake Plant #2 (aka #4)","Total Service Area Population","2020",NA
 "Highlands","Sun N Lake Plant #2 (aka #4)","Total Service Area Population","2045",NA
 "Highlands","Sun N Lake Plant #2 (aka #4)","Septic Population","2020",NA
@@ -678,7 +678,7 @@
 "Highlands","Sun N Lake Plant #2 (aka #4)","2045 Projected Totals","Total WW Flows (MGD)",NA
 "Highlands","Sun N Lake Plant #2 (aka #4)","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Highlands","Sun N Lake Plant #2 (aka #4)","2045 Projected Totals","Total Reuse (MGD)",NA
-"Highlands","Sun N Lake Plant #2 (aka #4)","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",NA
+"Highlands","Sun N Lake Plant #2 (aka #4)","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",NA
 "Polk","Auburndale Allred - South","Total Service Area Population","2020",33406
 "Polk","Auburndale Allred - South","Total Service Area Population","2045",48540
 "Polk","Auburndale Allred - South","Septic Population","2020",4263
@@ -695,7 +695,7 @@
 "Polk","Auburndale Allred - South","2045 Projected Totals","Total WW Flows (MGD)",1.69
 "Polk","Auburndale Allred - South","2045 Projected Totals","Supplemental Flows (MGD)",0.9
 "Polk","Auburndale Allred - South","2045 Projected Totals","Total Reuse (MGD)",2.26
-"Polk","Auburndale Allred - South","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",1.7
+"Polk","Auburndale Allred - South","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",1.7
 "Polk","Auburndale Regional - North","Total Service Area Population","2020",NA
 "Polk","Auburndale Regional - North","Total Service Area Population","2045",NA
 "Polk","Auburndale Regional - North","Septic Population","2020",NA
@@ -712,7 +712,7 @@
 "Polk","Auburndale Regional - North","2045 Projected Totals","Total WW Flows (MGD)",NA
 "Polk","Auburndale Regional - North","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Polk","Auburndale Regional - North","2045 Projected Totals","Total Reuse (MGD)",0.69
-"Polk","Auburndale Regional - North","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.52
+"Polk","Auburndale Regional - North","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.52
 "Polk","Bartow","Total Service Area Population","2020",24706
 "Polk","Bartow","Total Service Area Population","2045",33842
 "Polk","Bartow","Septic Population","2020",1308
@@ -729,7 +729,7 @@
 "Polk","Bartow","2045 Projected Totals","Total WW Flows (MGD)",2.88
 "Polk","Bartow","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Polk","Bartow","2045 Projected Totals","Total Reuse (MGD)",2.88
-"Polk","Bartow","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",2.16
+"Polk","Bartow","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",2.16
 "Polk","Cypress Lakes","Total Service Area Population","2020",2778
 "Polk","Cypress Lakes","Total Service Area Population","2045",2882
 "Polk","Cypress Lakes","Septic Population","2020",NA
@@ -746,7 +746,7 @@
 "Polk","Cypress Lakes","2045 Projected Totals","Total WW Flows (MGD)",0.12
 "Polk","Cypress Lakes","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Polk","Cypress Lakes","2045 Projected Totals","Total Reuse (MGD)",0.12
-"Polk","Cypress Lakes","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.09
+"Polk","Cypress Lakes","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.09
 "Polk","Dundee","Total Service Area Population","2020",4721
 "Polk","Dundee","Total Service Area Population","2045",8753
 "Polk","Dundee","Septic Population","2020",1271
@@ -763,7 +763,7 @@
 "Polk","Dundee","2045 Projected Totals","Total WW Flows (MGD)",0.41
 "Polk","Dundee","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Polk","Dundee","2045 Projected Totals","Total Reuse (MGD)",0.28
-"Polk","Dundee","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.21
+"Polk","Dundee","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.21
 "Polk","Frostproof","Total Service Area Population","2020",3861
 "Polk","Frostproof","Total Service Area Population","2045",5201
 "Polk","Frostproof","Septic Population","2020",316
@@ -780,7 +780,7 @@
 "Polk","Frostproof","2045 Projected Totals","Total WW Flows (MGD)",0.23
 "Polk","Frostproof","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Polk","Frostproof","2045 Projected Totals","Total Reuse (MGD)",0.09
-"Polk","Frostproof","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.07
+"Polk","Frostproof","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.07
 "Polk","Davenport","Total Service Area Population","2020",5581
 "Polk","Davenport","Total Service Area Population","2045",10785
 "Polk","Davenport","Septic Population","2020",4125
@@ -797,7 +797,7 @@
 "Polk","Davenport","2045 Projected Totals","Total WW Flows (MGD)",0.58
 "Polk","Davenport","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Polk","Davenport","2045 Projected Totals","Total Reuse (MGD)",0.33
-"Polk","Davenport","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.25
+"Polk","Davenport","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.25
 "Polk","Ft Meade","Total Service Area Population","2020",7818
 "Polk","Ft Meade","Total Service Area Population","2045",9725
 "Polk","Ft Meade","Septic Population","2020",620
@@ -814,7 +814,7 @@
 "Polk","Ft Meade","2045 Projected Totals","Total WW Flows (MGD)",0.63
 "Polk","Ft Meade","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Polk","Ft Meade","2045 Projected Totals","Total Reuse (MGD)",0.63
-"Polk","Ft Meade","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.47
+"Polk","Ft Meade","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.47
 "Polk","Grenelefe","Total Service Area Population","2020",2269
 "Polk","Grenelefe","Total Service Area Population","2045",2295
 "Polk","Grenelefe","Septic Population","2020",NA
@@ -831,7 +831,7 @@
 "Polk","Grenelefe","2045 Projected Totals","Total WW Flows (MGD)",0.13
 "Polk","Grenelefe","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Polk","Grenelefe","2045 Projected Totals","Total Reuse (MGD)",0
-"Polk","Grenelefe","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0
+"Polk","Grenelefe","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0
 "Polk","Haines City","Total Service Area Population","2020",25488
 "Polk","Haines City","Total Service Area Population","2045",44214
 "Polk","Haines City","Septic Population","2020",2671
@@ -848,7 +848,7 @@
 "Polk","Haines City","2045 Projected Totals","Total WW Flows (MGD)",3.25
 "Polk","Haines City","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Polk","Haines City","2045 Projected Totals","Total Reuse (MGD)",2.11
-"Polk","Haines City","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",1.59
+"Polk","Haines City","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",1.59
 "Polk","Lake Alfred","Total Service Area Population","2020",8687
 "Polk","Lake Alfred","Total Service Area Population","2045",13602
 "Polk","Lake Alfred","Septic Population","2020",667
@@ -865,7 +865,7 @@
 "Polk","Lake Alfred","2045 Projected Totals","Total WW Flows (MGD)",1.01
 "Polk","Lake Alfred","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Polk","Lake Alfred","2045 Projected Totals","Total Reuse (MGD)",0.34
-"Polk","Lake Alfred","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.25
+"Polk","Lake Alfred","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.25
 "Polk","Lake Wales - Sam Robinson","Total Service Area Population","2020",23453
 "Polk","Lake Wales - Sam Robinson","Total Service Area Population","2045",35391
 "Polk","Lake Wales - Sam Robinson","Septic Population","2020",2251
@@ -882,7 +882,7 @@
 "Polk","Lake Wales - Sam Robinson","2045 Projected Totals","Total WW Flows (MGD)",1.96
 "Polk","Lake Wales - Sam Robinson","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Polk","Lake Wales - Sam Robinson","2045 Projected Totals","Total Reuse (MGD)",1.35
-"Polk","Lake Wales - Sam Robinson","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",1.01
+"Polk","Lake Wales - Sam Robinson","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",1.01
 "Polk","Lakeland Glendale","Total Service Area Population","2020",85171
 "Polk","Lakeland Glendale","Total Service Area Population","2045",105476
 "Polk","Lakeland Glendale","Septic Population","2020",6809
@@ -899,7 +899,7 @@
 "Polk","Lakeland Glendale","2045 Projected Totals","Total WW Flows (MGD)",8.93
 "Polk","Lakeland Glendale","2045 Projected Totals","Supplemental Flows (MGD)",0.74
 "Polk","Lakeland Glendale","2045 Projected Totals","Total Reuse (MGD)",10.2
-"Polk","Lakeland Glendale","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",7.65
+"Polk","Lakeland Glendale","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",7.65
 "Polk","Lakeland Northside","Total Service Area Population","2020",40445
 "Polk","Lakeland Northside","Total Service Area Population","2045",51511
 "Polk","Lakeland Northside","Septic Population","2020",2821
@@ -916,7 +916,7 @@
 "Polk","Lakeland Northside","2045 Projected Totals","Total WW Flows (MGD)",4.63
 "Polk","Lakeland Northside","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Polk","Lakeland Northside","2045 Projected Totals","Total Reuse (MGD)",0.76
-"Polk","Lakeland Northside","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.57
+"Polk","Lakeland Northside","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.57
 "Polk","Mulberry","Total Service Area Population","2020",4288
 "Polk","Mulberry","Total Service Area Population","2045",5796
 "Polk","Mulberry","Septic Population","2020",212
@@ -933,7 +933,7 @@
 "Polk","Mulberry","2045 Projected Totals","Total WW Flows (MGD)",0.4
 "Polk","Mulberry","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Polk","Mulberry","2045 Projected Totals","Total Reuse (MGD)",0.38
-"Polk","Mulberry","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.29
+"Polk","Mulberry","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.29
 "Polk","Outdoor Resorts Orlando","Total Service Area Population","2020",NA
 "Polk","Outdoor Resorts Orlando","Total Service Area Population","2045",NA
 "Polk","Outdoor Resorts Orlando","Septic Population","2020",NA
@@ -950,7 +950,7 @@
 "Polk","Outdoor Resorts Orlando","2045 Projected Totals","Total WW Flows (MGD)",NA
 "Polk","Outdoor Resorts Orlando","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Polk","Outdoor Resorts Orlando","2045 Projected Totals","Total Reuse (MGD)",NA
-"Polk","Outdoor Resorts Orlando","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",NA
+"Polk","Outdoor Resorts Orlando","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",NA
 "Polk","Polk City - Cardinal Hill","Total Service Area Population","2020",437
 "Polk","Polk City - Cardinal Hill","Total Service Area Population","2045",505
 "Polk","Polk City - Cardinal Hill","Septic Population","2020",56
@@ -967,7 +967,7 @@
 "Polk","Polk City - Cardinal Hill","2045 Projected Totals","Total WW Flows (MGD)",0.14
 "Polk","Polk City - Cardinal Hill","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Polk","Polk City - Cardinal Hill","2045 Projected Totals","Total Reuse (MGD)",0
-"Polk","Polk City - Cardinal Hill","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0
+"Polk","Polk City - Cardinal Hill","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0
 "Polk","Polk County - Northeast Regional","Total Service Area Population","2020",36684
 "Polk","Polk County - Northeast Regional","Total Service Area Population","2045",59147
 "Polk","Polk County - Northeast Regional","Septic Population","2020",777
@@ -984,7 +984,7 @@
 "Polk","Polk County - Northeast Regional","2045 Projected Totals","Total WW Flows (MGD)",5.05
 "Polk","Polk County - Northeast Regional","2045 Projected Totals","Supplemental Flows (MGD)",0.6
 "Polk","Polk County - Northeast Regional","2045 Projected Totals","Total Reuse (MGD)",5.22
-"Polk","Polk County - Northeast Regional","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",3.91
+"Polk","Polk County - Northeast Regional","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",3.91
 "Polk","Polk County - Northwest Regional","Total Service Area Population","2020",41263
 "Polk","Polk County - Northwest Regional","Total Service Area Population","2045",61914
 "Polk","Polk County - Northwest Regional","Septic Population","2020",34223
@@ -1001,7 +1001,7 @@
 "Polk","Polk County - Northwest Regional","2045 Projected Totals","Total WW Flows (MGD)",2.03
 "Polk","Polk County - Northwest Regional","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Polk","Polk County - Northwest Regional","2045 Projected Totals","Total Reuse (MGD)",1.5
-"Polk","Polk County - Northwest Regional","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",1.12
+"Polk","Polk County - Northwest Regional","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",1.12
 "Polk","Polk County - Sun Ray","Total Service Area Population","2020",465
 "Polk","Polk County - Sun Ray","Total Service Area Population","2045",504
 "Polk","Polk County - Sun Ray","Septic Population","2020",55
@@ -1018,7 +1018,7 @@
 "Polk","Polk County - Sun Ray","2045 Projected Totals","Total WW Flows (MGD)",0.36
 "Polk","Polk County - Sun Ray","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Polk","Polk County - Sun Ray","2045 Projected Totals","Total Reuse (MGD)",0
-"Polk","Polk County - Sun Ray","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0
+"Polk","Polk County - Sun Ray","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0
 "Polk","Polk County - Southwest Regional","Total Service Area Population","2020",51598
 "Polk","Polk County - Southwest Regional","Total Service Area Population","2045",70132
 "Polk","Polk County - Southwest Regional","Septic Population","2020",38932
@@ -1035,7 +1035,7 @@
 "Polk","Polk County - Southwest Regional","2045 Projected Totals","Total WW Flows (MGD)",3.25
 "Polk","Polk County - Southwest Regional","2045 Projected Totals","Supplemental Flows (MGD)",0.26
 "Polk","Polk County - Southwest Regional","2045 Projected Totals","Total Reuse (MGD)",3.07
-"Polk","Polk County - Southwest Regional","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",2.3
+"Polk","Polk County - Southwest Regional","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",2.3
 "Polk","Polk County - Waverly","Total Service Area Population","2020",714
 "Polk","Polk County - Waverly","Total Service Area Population","2045",1075
 "Polk","Polk County - Waverly","Septic Population","2020",128
@@ -1052,7 +1052,7 @@
 "Polk","Polk County - Waverly","2045 Projected Totals","Total WW Flows (MGD)",0.06
 "Polk","Polk County - Waverly","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Polk","Polk County - Waverly","2045 Projected Totals","Total Reuse (MGD)",0.02
-"Polk","Polk County - Waverly","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.02
+"Polk","Polk County - Waverly","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.02
 "Polk","Polk Correctional","Total Service Area Population","2020",NA
 "Polk","Polk Correctional","Total Service Area Population","2045",NA
 "Polk","Polk Correctional","Septic Population","2020",NA
@@ -1069,7 +1069,7 @@
 "Polk","Polk Correctional","2045 Projected Totals","Total WW Flows (MGD)",NA
 "Polk","Polk Correctional","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Polk","Polk Correctional","2045 Projected Totals","Total Reuse (MGD)",NA
-"Polk","Polk Correctional","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",NA
+"Polk","Polk Correctional","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",NA
 "Polk","Streamsong","Total Service Area Population","2020",NA
 "Polk","Streamsong","Total Service Area Population","2045",NA
 "Polk","Streamsong","Septic Population","2020",NA
@@ -1086,7 +1086,7 @@
 "Polk","Streamsong","2045 Projected Totals","Total WW Flows (MGD)",NA
 "Polk","Streamsong","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Polk","Streamsong","2045 Projected Totals","Total Reuse (MGD)",0.02
-"Polk","Streamsong","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.02
+"Polk","Streamsong","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.02
 "Polk","Swiss Golf","Total Service Area Population","2020",1359
 "Polk","Swiss Golf","Total Service Area Population","2045",1382
 "Polk","Swiss Golf","Septic Population","2020",NA
@@ -1103,7 +1103,7 @@
 "Polk","Swiss Golf","2045 Projected Totals","Total WW Flows (MGD)",0.05
 "Polk","Swiss Golf","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Polk","Swiss Golf","2045 Projected Totals","Total Reuse (MGD)",0
-"Polk","Swiss Golf","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0
+"Polk","Swiss Golf","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0
 "Polk","Swiss Village","Total Service Area Population","2020",1649
 "Polk","Swiss Village","Total Service Area Population","2045",1732
 "Polk","Swiss Village","Septic Population","2020",NA
@@ -1120,7 +1120,7 @@
 "Polk","Swiss Village","2045 Projected Totals","Total WW Flows (MGD)",0.04
 "Polk","Swiss Village","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Polk","Swiss Village","2045 Projected Totals","Total Reuse (MGD)",0.01
-"Polk","Swiss Village","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0
+"Polk","Swiss Village","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0
 "Polk","Winter Haven #2","Total Service Area Population","2020",75028
 "Polk","Winter Haven #2","Total Service Area Population","2045",99747
 "Polk","Winter Haven #2","Septic Population","2020",5340
@@ -1137,7 +1137,7 @@
 "Polk","Winter Haven #2","2045 Projected Totals","Total WW Flows (MGD)",2.92
 "Polk","Winter Haven #2","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Polk","Winter Haven #2","2045 Projected Totals","Total Reuse (MGD)",2.84
-"Polk","Winter Haven #2","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",2.13
+"Polk","Winter Haven #2","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",2.13
 "Polk","Winter Haven #3","Total Service Area Population","2020",NA
 "Polk","Winter Haven #3","Total Service Area Population","2045",NA
 "Polk","Winter Haven #3","Septic Population","2020",NA
@@ -1154,7 +1154,7 @@
 "Polk","Winter Haven #3","2045 Projected Totals","Total WW Flows (MGD)",NA
 "Polk","Winter Haven #3","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Polk","Winter Haven #3","2045 Projected Totals","Total Reuse (MGD)",0.01
-"Polk","Winter Haven #3","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.01
+"Polk","Winter Haven #3","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.01
 "Polk","Carefree CC","Total Service Area Population","2020",NA
 "Polk","Carefree CC","Total Service Area Population","2045",NA
 "Polk","Carefree CC","Septic Population","2020",NA
@@ -1171,7 +1171,7 @@
 "Polk","Carefree CC","2045 Projected Totals","Total WW Flows (MGD)",NA
 "Polk","Carefree CC","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Polk","Carefree CC","2045 Projected Totals","Total Reuse (MGD)",0.02
-"Polk","Carefree CC","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.02
+"Polk","Carefree CC","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.02
 "Polk","Sweetwater","Total Service Area Population","2020",NA
 "Polk","Sweetwater","Total Service Area Population","2045",NA
 "Polk","Sweetwater","Septic Population","2020",NA
@@ -1188,7 +1188,7 @@
 "Polk","Sweetwater","2045 Projected Totals","Total WW Flows (MGD)",NA
 "Polk","Sweetwater","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Polk","Sweetwater","2045 Projected Totals","Total Reuse (MGD)",0.01
-"Polk","Sweetwater","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.01
+"Polk","Sweetwater","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.01
 "Hillsborough","Country Meadows","Total Service Area Population","2020",1413
 "Hillsborough","Country Meadows","Total Service Area Population","2045",1413
 "Hillsborough","Country Meadows","Septic Population","2020",NA
@@ -1205,7 +1205,7 @@
 "Hillsborough","Country Meadows","2045 Projected Totals","Total WW Flows (MGD)",0.12
 "Hillsborough","Country Meadows","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Hillsborough","Country Meadows","2045 Projected Totals","Total Reuse (MGD)",0.01
-"Hillsborough","Country Meadows","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.01
+"Hillsborough","Country Meadows","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.01
 "Hillsborough","Hillsborough County - Northwest","Total Service Area Population","2020",697693
 "Hillsborough","Hillsborough County - Northwest","Total Service Area Population","2045",858996
 "Hillsborough","Hillsborough County - Northwest","Septic Population","2020",17614
@@ -1222,7 +1222,7 @@
 "Hillsborough","Hillsborough County - Northwest","2045 Projected Totals","Total WW Flows (MGD)",27.7
 "Hillsborough","Hillsborough County - Northwest","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Hillsborough","Hillsborough County - Northwest","2045 Projected Totals","Total Reuse (MGD)",22.02
-"Hillsborough","Hillsborough County - Northwest","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",16.51
+"Hillsborough","Hillsborough County - Northwest","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",16.51
 "Hillsborough","Hillsborough County - Van Dyke","Total Service Area Population","2020",NA
 "Hillsborough","Hillsborough County - Van Dyke","Total Service Area Population","2045",NA
 "Hillsborough","Hillsborough County - Van Dyke","Septic Population","2020",NA
@@ -1239,7 +1239,7 @@
 "Hillsborough","Hillsborough County - Van Dyke","2045 Projected Totals","Total WW Flows (MGD)",1.33
 "Hillsborough","Hillsborough County - Van Dyke","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Hillsborough","Hillsborough County - Van Dyke","2045 Projected Totals","Total Reuse (MGD)",NA
-"Hillsborough","Hillsborough County - Van Dyke","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",NA
+"Hillsborough","Hillsborough County - Van Dyke","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",NA
 "Hillsborough","Hillsborough County - Falkenburg","Total Service Area Population","2020",NA
 "Hillsborough","Hillsborough County - Falkenburg","Total Service Area Population","2045",NA
 "Hillsborough","Hillsborough County - Falkenburg","Septic Population","2020",NA
@@ -1256,7 +1256,7 @@
 "Hillsborough","Hillsborough County - Falkenburg","2045 Projected Totals","Total WW Flows (MGD)",9.88
 "Hillsborough","Hillsborough County - Falkenburg","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Hillsborough","Hillsborough County - Falkenburg","2045 Projected Totals","Total Reuse (MGD)",14.2
-"Hillsborough","Hillsborough County - Falkenburg","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",10.65
+"Hillsborough","Hillsborough County - Falkenburg","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",10.65
 "Hillsborough","Hillsborough County - South","Total Service Area Population","2020",NA
 "Hillsborough","Hillsborough County - South","Total Service Area Population","2045",NA
 "Hillsborough","Hillsborough County - South","Septic Population","2020",NA
@@ -1273,7 +1273,7 @@
 "Hillsborough","Hillsborough County - South","2045 Projected Totals","Total WW Flows (MGD)",7.54
 "Hillsborough","Hillsborough County - South","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Hillsborough","Hillsborough County - South","2045 Projected Totals","Total Reuse (MGD)",NA
-"Hillsborough","Hillsborough County - South","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",NA
+"Hillsborough","Hillsborough County - South","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",NA
 "Hillsborough","Hillsborough County - Valrico","Total Service Area Population","2020",NA
 "Hillsborough","Hillsborough County - Valrico","Total Service Area Population","2045",NA
 "Hillsborough","Hillsborough County - Valrico","Septic Population","2020",NA
@@ -1290,7 +1290,7 @@
 "Hillsborough","Hillsborough County - Valrico","2045 Projected Totals","Total WW Flows (MGD)",7.24
 "Hillsborough","Hillsborough County - Valrico","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Hillsborough","Hillsborough County - Valrico","2045 Projected Totals","Total Reuse (MGD)",NA
-"Hillsborough","Hillsborough County - Valrico","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",NA
+"Hillsborough","Hillsborough County - Valrico","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",NA
 "Hillsborough","MacDill AFB (FGUA)","Total Service Area Population","2020",NA
 "Hillsborough","MacDill AFB (FGUA)","Total Service Area Population","2045",NA
 "Hillsborough","MacDill AFB (FGUA)","Septic Population","2020",NA
@@ -1307,7 +1307,7 @@
 "Hillsborough","MacDill AFB (FGUA)","2045 Projected Totals","Total WW Flows (MGD)",0.65
 "Hillsborough","MacDill AFB (FGUA)","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Hillsborough","MacDill AFB (FGUA)","2045 Projected Totals","Total Reuse (MGD)",0.55
-"Hillsborough","MacDill AFB (FGUA)","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.41
+"Hillsborough","MacDill AFB (FGUA)","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.41
 "Hillsborough","Plant City","Total Service Area Population","2020",41882
 "Hillsborough","Plant City","Total Service Area Population","2045",71781
 "Hillsborough","Plant City","Septic Population","2020",1136
@@ -1324,7 +1324,7 @@
 "Hillsborough","Plant City","2045 Projected Totals","Total WW Flows (MGD)",6.43
 "Hillsborough","Plant City","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Hillsborough","Plant City","2045 Projected Totals","Total Reuse (MGD)",2.7
-"Hillsborough","Plant City","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",2.03
+"Hillsborough","Plant City","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",2.03
 "Hillsborough","Rice Creek","Total Service Area Population","2020",771
 "Hillsborough","Rice Creek","Total Service Area Population","2045",771
 "Hillsborough","Rice Creek","Septic Population","2020",NA
@@ -1341,7 +1341,7 @@
 "Hillsborough","Rice Creek","2045 Projected Totals","Total WW Flows (MGD)",0.08
 "Hillsborough","Rice Creek","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Hillsborough","Rice Creek","2045 Projected Totals","Total Reuse (MGD)",NA
-"Hillsborough","Rice Creek","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",NA
+"Hillsborough","Rice Creek","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",NA
 "Hillsborough","Riverside","Total Service Area Population","2020",824
 "Hillsborough","Riverside","Total Service Area Population","2045",824
 "Hillsborough","Riverside","Septic Population","2020",NA
@@ -1358,7 +1358,7 @@
 "Hillsborough","Riverside","2045 Projected Totals","Total WW Flows (MGD)",0.05
 "Hillsborough","Riverside","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Hillsborough","Riverside","2045 Projected Totals","Total Reuse (MGD)",NA
-"Hillsborough","Riverside","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",NA
+"Hillsborough","Riverside","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",NA
 "Hillsborough","Tampa","Total Service Area Population","2020",602835
 "Hillsborough","Tampa","Total Service Area Population","2045",653373
 "Hillsborough","Tampa","Septic Population","2020",9131
@@ -1375,7 +1375,7 @@
 "Hillsborough","Tampa","2045 Projected Totals","Total WW Flows (MGD)",59.55
 "Hillsborough","Tampa","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Hillsborough","Tampa","2045 Projected Totals","Total Reuse (MGD)",12.29
-"Hillsborough","Tampa","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",9.22
+"Hillsborough","Tampa","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",9.22
 "Hillsborough","Windemere","Total Service Area Population","2020",2527
 "Hillsborough","Windemere","Total Service Area Population","2045",2529
 "Hillsborough","Windemere","Septic Population","2020",38
@@ -1392,7 +1392,7 @@
 "Hillsborough","Windemere","2045 Projected Totals","Total WW Flows (MGD)",0.11
 "Hillsborough","Windemere","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Hillsborough","Windemere","2045 Projected Totals","Total Reuse (MGD)",0
-"Hillsborough","Windemere","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0
+"Hillsborough","Windemere","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0
 "Pasco","Dade City","Total Service Area Population","2020",15656
 "Pasco","Dade City","Total Service Area Population","2045",21434
 "Pasco","Dade City","Septic Population","2020",7476
@@ -1409,7 +1409,7 @@
 "Pasco","Dade City","2045 Projected Totals","Total WW Flows (MGD)",1.08
 "Pasco","Dade City","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Pasco","Dade City","2045 Projected Totals","Total Reuse (MGD)",0.77
-"Pasco","Dade City","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.58
+"Pasco","Dade City","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.58
 "Pasco","FGUA - Jasmine Lakes","Total Service Area Population","2020",3442
 "Pasco","FGUA - Jasmine Lakes","Total Service Area Population","2045",3447
 "Pasco","FGUA - Jasmine Lakes","Septic Population","2020",11
@@ -1426,7 +1426,7 @@
 "Pasco","FGUA - Jasmine Lakes","2045 Projected Totals","Total WW Flows (MGD)",0.29
 "Pasco","FGUA - Jasmine Lakes","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Pasco","FGUA - Jasmine Lakes","2045 Projected Totals","Total Reuse (MGD)",0
-"Pasco","FGUA - Jasmine Lakes","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0
+"Pasco","FGUA - Jasmine Lakes","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0
 "Pasco","FGUA - Palm Terrace","Total Service Area Population","2020",2526
 "Pasco","FGUA - Palm Terrace","Total Service Area Population","2045",2553
 "Pasco","FGUA - Palm Terrace","Septic Population","2020",160
@@ -1443,7 +1443,7 @@
 "Pasco","FGUA - Palm Terrace","2045 Projected Totals","Total WW Flows (MGD)",0.11
 "Pasco","FGUA - Palm Terrace","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Pasco","FGUA - Palm Terrace","2045 Projected Totals","Total Reuse (MGD)",0
-"Pasco","FGUA - Palm Terrace","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0
+"Pasco","FGUA - Palm Terrace","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0
 "Pasco","FGUA - Seven Springs","Total Service Area Population","2020",31706
 "Pasco","FGUA - Seven Springs","Total Service Area Population","2045",34420
 "Pasco","FGUA - Seven Springs","Septic Population","2020",180
@@ -1460,7 +1460,7 @@
 "Pasco","FGUA - Seven Springs","2045 Projected Totals","Total WW Flows (MGD)",1.97
 "Pasco","FGUA - Seven Springs","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Pasco","FGUA - Seven Springs","2045 Projected Totals","Total Reuse (MGD)",1.45
-"Pasco","FGUA - Seven Springs","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",1.09
+"Pasco","FGUA - Seven Springs","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",1.09
 "Pasco","Forest Lakes Estates","Total Service Area Population","2020",1143
 "Pasco","Forest Lakes Estates","Total Service Area Population","2045",1143
 "Pasco","Forest Lakes Estates","Septic Population","2020",NA
@@ -1477,7 +1477,7 @@
 "Pasco","Forest Lakes Estates","2045 Projected Totals","Total WW Flows (MGD)",0.06
 "Pasco","Forest Lakes Estates","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Pasco","Forest Lakes Estates","2045 Projected Totals","Total Reuse (MGD)",NA
-"Pasco","Forest Lakes Estates","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",NA
+"Pasco","Forest Lakes Estates","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",NA
 "Pasco","New Port Richey","Total Service Area Population","2020",27771
 "Pasco","New Port Richey","Total Service Area Population","2045",30073
 "Pasco","New Port Richey","Septic Population","2020",1324
@@ -1494,7 +1494,7 @@
 "Pasco","New Port Richey","2045 Projected Totals","Total WW Flows (MGD)",5.44
 "Pasco","New Port Richey","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Pasco","New Port Richey","2045 Projected Totals","Total Reuse (MGD)",0.74
-"Pasco","New Port Richey","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.56
+"Pasco","New Port Richey","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.56
 "Pasco","Pasco Shady Hills","Total Service Area Population","2020",314589
 "Pasco","Pasco Shady Hills","Total Service Area Population","2045",360986
 "Pasco","Pasco Shady Hills","Septic Population","2020",13191
@@ -1511,7 +1511,7 @@
 "Pasco","Pasco Shady Hills","2045 Projected Totals","Total WW Flows (MGD)",23.61
 "Pasco","Pasco Shady Hills","2045 Projected Totals","Supplemental Flows (MGD)",3.97
 "Pasco","Pasco Shady Hills","2045 Projected Totals","Total Reuse (MGD)",28.13
-"Pasco","Pasco Shady Hills","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",21.1
+"Pasco","Pasco Shady Hills","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",21.1
 "Pasco","Pasco Wesley Center","Total Service Area Population","2020",NA
 "Pasco","Pasco Wesley Center","Total Service Area Population","2045",NA
 "Pasco","Pasco Wesley Center","Septic Population","2020",NA
@@ -1528,7 +1528,7 @@
 "Pasco","Pasco Wesley Center","2045 Projected Totals","Total WW Flows (MGD)",NA
 "Pasco","Pasco Wesley Center","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Pasco","Pasco Wesley Center","2045 Projected Totals","Total Reuse (MGD)",NA
-"Pasco","Pasco Wesley Center","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",NA
+"Pasco","Pasco Wesley Center","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",NA
 "Pasco","Pasco Embassy Hills","Total Service Area Population","2020",NA
 "Pasco","Pasco Embassy Hills","Total Service Area Population","2045",NA
 "Pasco","Pasco Embassy Hills","Septic Population","2020",NA
@@ -1545,7 +1545,7 @@
 "Pasco","Pasco Embassy Hills","2045 Projected Totals","Total WW Flows (MGD)",NA
 "Pasco","Pasco Embassy Hills","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Pasco","Pasco Embassy Hills","2045 Projected Totals","Total Reuse (MGD)",NA
-"Pasco","Pasco Embassy Hills","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",NA
+"Pasco","Pasco Embassy Hills","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",NA
 "Pasco","Pasco Land O Lakes","Total Service Area Population","2020",NA
 "Pasco","Pasco Land O Lakes","Total Service Area Population","2045",NA
 "Pasco","Pasco Land O Lakes","Septic Population","2020",NA
@@ -1562,7 +1562,7 @@
 "Pasco","Pasco Land O Lakes","2045 Projected Totals","Total WW Flows (MGD)",NA
 "Pasco","Pasco Land O Lakes","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Pasco","Pasco Land O Lakes","2045 Projected Totals","Total Reuse (MGD)",NA
-"Pasco","Pasco Land O Lakes","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",NA
+"Pasco","Pasco Land O Lakes","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",NA
 "Pasco","Pasco Southeast","Total Service Area Population","2020",NA
 "Pasco","Pasco Southeast","Total Service Area Population","2045",NA
 "Pasco","Pasco Southeast","Septic Population","2020",NA
@@ -1579,7 +1579,7 @@
 "Pasco","Pasco Southeast","2045 Projected Totals","Total WW Flows (MGD)",NA
 "Pasco","Pasco Southeast","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Pasco","Pasco Southeast","2045 Projected Totals","Total Reuse (MGD)",NA
-"Pasco","Pasco Southeast","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",NA
+"Pasco","Pasco Southeast","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",NA
 "Pasco","Travelers Rest","Total Service Area Population","2020",NA
 "Pasco","Travelers Rest","Total Service Area Population","2045",NA
 "Pasco","Travelers Rest","Septic Population","2020",NA
@@ -1596,7 +1596,7 @@
 "Pasco","Travelers Rest","2045 Projected Totals","Total WW Flows (MGD)",0.04
 "Pasco","Travelers Rest","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Pasco","Travelers Rest","2045 Projected Totals","Total Reuse (MGD)",NA
-"Pasco","Travelers Rest","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",NA
+"Pasco","Travelers Rest","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",NA
 "Pasco","Zephyrhills","Total Service Area Population","2020",28149
 "Pasco","Zephyrhills","Total Service Area Population","2045",30947
 "Pasco","Zephyrhills","Septic Population","2020",3020
@@ -1613,7 +1613,7 @@
 "Pasco","Zephyrhills","2045 Projected Totals","Total WW Flows (MGD)",1.9
 "Pasco","Zephyrhills","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Pasco","Zephyrhills","2045 Projected Totals","Total Reuse (MGD)",0.51
-"Pasco","Zephyrhills","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.38
+"Pasco","Zephyrhills","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.38
 "Pinellas","Clearwater Northeast","Total Service Area Population","2020",134156
 "Pinellas","Clearwater Northeast","Total Service Area Population","2045",137440
 "Pinellas","Clearwater Northeast","Septic Population","2020",4561
@@ -1630,7 +1630,7 @@
 "Pinellas","Clearwater Northeast","2045 Projected Totals","Total WW Flows (MGD)",5.89
 "Pinellas","Clearwater Northeast","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Pinellas","Clearwater Northeast","2045 Projected Totals","Total Reuse (MGD)",4.98
-"Pinellas","Clearwater Northeast","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",3.74
+"Pinellas","Clearwater Northeast","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",3.74
 "Pinellas","Clearwater East","Total Service Area Population","2020",NA
 "Pinellas","Clearwater East","Total Service Area Population","2045",NA
 "Pinellas","Clearwater East","Septic Population","2020",NA
@@ -1647,7 +1647,7 @@
 "Pinellas","Clearwater East","2045 Projected Totals","Total WW Flows (MGD)",3.21
 "Pinellas","Clearwater East","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Pinellas","Clearwater East","2045 Projected Totals","Total Reuse (MGD)",NA
-"Pinellas","Clearwater East","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",NA
+"Pinellas","Clearwater East","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",NA
 "Pinellas","Clearwater Marshall","Total Service Area Population","2020",NA
 "Pinellas","Clearwater Marshall","Total Service Area Population","2045",NA
 "Pinellas","Clearwater Marshall","Septic Population","2020",NA
@@ -1664,7 +1664,7 @@
 "Pinellas","Clearwater Marshall","2045 Projected Totals","Total WW Flows (MGD)",5.56
 "Pinellas","Clearwater Marshall","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Pinellas","Clearwater Marshall","2045 Projected Totals","Total Reuse (MGD)",NA
-"Pinellas","Clearwater Marshall","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",NA
+"Pinellas","Clearwater Marshall","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",NA
 "Pinellas","Dundedin","Total Service Area Population","2020",35283
 "Pinellas","Dundedin","Total Service Area Population","2045",36016
 "Pinellas","Dundedin","Septic Population","2020",134
@@ -1681,7 +1681,7 @@
 "Pinellas","Dundedin","2045 Projected Totals","Total WW Flows (MGD)",4.45
 "Pinellas","Dundedin","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Pinellas","Dundedin","2045 Projected Totals","Total Reuse (MGD)",3.05
-"Pinellas","Dundedin","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",2.29
+"Pinellas","Dundedin","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",2.29
 "Pinellas","Largo","Total Service Area Population","2020",85854
 "Pinellas","Largo","Total Service Area Population","2045",86750
 "Pinellas","Largo","Septic Population","2020",NA
@@ -1698,7 +1698,7 @@
 "Pinellas","Largo","2045 Projected Totals","Total WW Flows (MGD)",11.82
 "Pinellas","Largo","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Pinellas","Largo","2045 Projected Totals","Total Reuse (MGD)",5.86
-"Pinellas","Largo","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",4.39
+"Pinellas","Largo","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",4.39
 "Pinellas","Mid-County Dyna Flow","Total Service Area Population","2020",11081
 "Pinellas","Mid-County Dyna Flow","Total Service Area Population","2045",11462
 "Pinellas","Mid-County Dyna Flow","Septic Population","2020",860
@@ -1715,7 +1715,7 @@
 "Pinellas","Mid-County Dyna Flow","2045 Projected Totals","Total WW Flows (MGD)",0.93
 "Pinellas","Mid-County Dyna Flow","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Pinellas","Mid-County Dyna Flow","2045 Projected Totals","Total Reuse (MGD)",0.03
-"Pinellas","Mid-County Dyna Flow","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.02
+"Pinellas","Mid-County Dyna Flow","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.02
 "Pinellas","Oldsmar","Total Service Area Population","2020",15446
 "Pinellas","Oldsmar","Total Service Area Population","2045",16547
 "Pinellas","Oldsmar","Septic Population","2020",53
@@ -1732,7 +1732,7 @@
 "Pinellas","Oldsmar","2045 Projected Totals","Total WW Flows (MGD)",1.58
 "Pinellas","Oldsmar","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Pinellas","Oldsmar","2045 Projected Totals","Total Reuse (MGD)",0.97
-"Pinellas","Oldsmar","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.72
+"Pinellas","Oldsmar","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.72
 "Pinellas","On Top of the World Clearwater","Total Service Area Population","2020",7379
 "Pinellas","On Top of the World Clearwater","Total Service Area Population","2045",7379
 "Pinellas","On Top of the World Clearwater","Septic Population","2020",NA
@@ -1749,92 +1749,92 @@
 "Pinellas","On Top of the World Clearwater","2045 Projected Totals","Total WW Flows (MGD)",0.45
 "Pinellas","On Top of the World Clearwater","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Pinellas","On Top of the World Clearwater","2045 Projected Totals","Total Reuse (MGD)",0.4
-"Pinellas","On Top of the World Clearwater","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.3
-"Pinellas","Pinellas North-Dunn","Total Service Area Population","2020",NA
-"Pinellas","Pinellas North-Dunn","Total Service Area Population","2045",NA
-"Pinellas","Pinellas North-Dunn","Septic Population","2020",NA
-"Pinellas","Pinellas North-Dunn","Septic Population","2045",NA
-"Pinellas","Pinellas North-Dunn","Adjusted Service Area Population","2020",NA
-"Pinellas","Pinellas North-Dunn","Adjusted Service Area Population","2045",NA
-"Pinellas","Pinellas North-Dunn","Adjusted Service Area Population","2020-2045 Population Increase",NA
-"Pinellas","Pinellas North-Dunn","2020 Totals","Total WW Flows (MGD)",7.15
-"Pinellas","Pinellas North-Dunn","2020 Totals","Total Reuse (MGD)",7.39
-"Pinellas","Pinellas North-Dunn","2020 Totals","Supplemental Flows (MGD)",NA
-"Pinellas","Pinellas North-Dunn","2020 Totals","WW Disposal (MGD)",NA
-"Pinellas","Pinellas North-Dunn","2045 Projected Additional","WW Flow Projection (MGD)",NA
-"Pinellas","Pinellas North-Dunn","2045 Projected Additional","Supplemental Flows (MGD)",NA
-"Pinellas","Pinellas North-Dunn","2045 Projected Totals","Total WW Flows (MGD)",7.15
-"Pinellas","Pinellas North-Dunn","2045 Projected Totals","Supplemental Flows (MGD)",NA
-"Pinellas","Pinellas North-Dunn","2045 Projected Totals","Total Reuse (MGD)",7.39
-"Pinellas","Pinellas North-Dunn","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",5.54
-"Pinellas","Pinellas South-Southcross","Total Service Area Population","2020",358433
-"Pinellas","Pinellas South-Southcross","Total Service Area Population","2045",369191
-"Pinellas","Pinellas South-Southcross","Septic Population","2020",1420
-"Pinellas","Pinellas South-Southcross","Septic Population","2045",1514
-"Pinellas","Pinellas South-Southcross","Adjusted Service Area Population","2020",357013
-"Pinellas","Pinellas South-Southcross","Adjusted Service Area Population","2045",367677
-"Pinellas","Pinellas South-Southcross","Adjusted Service Area Population","2020-2045 Population Increase",10664
-"Pinellas","Pinellas South-Southcross","2020 Totals","Total WW Flows (MGD)",20.49
-"Pinellas","Pinellas South-Southcross","2020 Totals","Total Reuse (MGD)",10.72
-"Pinellas","Pinellas South-Southcross","2020 Totals","Supplemental Flows (MGD)",NA
-"Pinellas","Pinellas South-Southcross","2020 Totals","WW Disposal (MGD)",8.25
-"Pinellas","Pinellas South-Southcross","2045 Projected Additional","WW Flow Projection (MGD)",0.74
-"Pinellas","Pinellas South-Southcross","2045 Projected Additional","Supplemental Flows (MGD)",NA
-"Pinellas","Pinellas South-Southcross","2045 Projected Totals","Total WW Flows (MGD)",21.23
-"Pinellas","Pinellas South-Southcross","2045 Projected Totals","Supplemental Flows (MGD)",NA
-"Pinellas","Pinellas South-Southcross","2045 Projected Totals","Total Reuse (MGD)",11.46
-"Pinellas","Pinellas South-Southcross","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",8.59
-"Pinellas","St. Petersburg Southwest","Total Service Area Population","2020",301461
-"Pinellas","St. Petersburg Southwest","Total Service Area Population","2045",313950
-"Pinellas","St. Petersburg Southwest","Septic Population","2020",24
-"Pinellas","St. Petersburg Southwest","Septic Population","2045",24
-"Pinellas","St. Petersburg Southwest","Adjusted Service Area Population","2020",301437
-"Pinellas","St. Petersburg Southwest","Adjusted Service Area Population","2045",313926
-"Pinellas","St. Petersburg Southwest","Adjusted Service Area Population","2020-2045 Population Increase",12489
-"Pinellas","St. Petersburg Southwest","2020 Totals","Total WW Flows (MGD)",14.68
-"Pinellas","St. Petersburg Southwest","2020 Totals","Total Reuse (MGD)",21.63
-"Pinellas","St. Petersburg Southwest","2020 Totals","Supplemental Flows (MGD)",NA
-"Pinellas","St. Petersburg Southwest","2020 Totals","WW Disposal (MGD)",NA
-"Pinellas","St. Petersburg Southwest","2045 Projected Additional","WW Flow Projection (MGD)",0.87
-"Pinellas","St. Petersburg Southwest","2045 Projected Additional","Supplemental Flows (MGD)",NA
-"Pinellas","St. Petersburg Southwest","2045 Projected Totals","Total WW Flows (MGD)",15.55
-"Pinellas","St. Petersburg Southwest","2045 Projected Totals","Supplemental Flows (MGD)",NA
-"Pinellas","St. Petersburg Southwest","2045 Projected Totals","Total Reuse (MGD)",22.5
-"Pinellas","St. Petersburg Southwest","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",16.87
-"Pinellas","St. Petersburg Northwest","Total Service Area Population","2020",NA
-"Pinellas","St. Petersburg Northwest","Total Service Area Population","2045",NA
-"Pinellas","St. Petersburg Northwest","Septic Population","2020",NA
-"Pinellas","St. Petersburg Northwest","Septic Population","2045",NA
-"Pinellas","St. Petersburg Northwest","Adjusted Service Area Population","2020",NA
-"Pinellas","St. Petersburg Northwest","Adjusted Service Area Population","2045",NA
-"Pinellas","St. Petersburg Northwest","Adjusted Service Area Population","2020-2045 Population Increase",NA
-"Pinellas","St. Petersburg Northwest","2020 Totals","Total WW Flows (MGD)",8.9
-"Pinellas","St. Petersburg Northwest","2020 Totals","Total Reuse (MGD)",NA
-"Pinellas","St. Petersburg Northwest","2020 Totals","Supplemental Flows (MGD)",NA
-"Pinellas","St. Petersburg Northwest","2020 Totals","WW Disposal (MGD)",NA
-"Pinellas","St. Petersburg Northwest","2045 Projected Additional","WW Flow Projection (MGD)",NA
-"Pinellas","St. Petersburg Northwest","2045 Projected Additional","Supplemental Flows (MGD)",NA
-"Pinellas","St. Petersburg Northwest","2045 Projected Totals","Total WW Flows (MGD)",8.9
-"Pinellas","St. Petersburg Northwest","2045 Projected Totals","Supplemental Flows (MGD)",NA
-"Pinellas","St. Petersburg Northwest","2045 Projected Totals","Total Reuse (MGD)",NA
-"Pinellas","St. Petersburg Northwest","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",NA
-"Pinellas","St. Petersburg Northeast","Total Service Area Population","2020",NA
-"Pinellas","St. Petersburg Northeast","Total Service Area Population","2045",NA
-"Pinellas","St. Petersburg Northeast","Septic Population","2020",NA
-"Pinellas","St. Petersburg Northeast","Septic Population","2045",NA
-"Pinellas","St. Petersburg Northeast","Adjusted Service Area Population","2020",NA
-"Pinellas","St. Petersburg Northeast","Adjusted Service Area Population","2045",NA
-"Pinellas","St. Petersburg Northeast","Adjusted Service Area Population","2020-2045 Population Increase",NA
-"Pinellas","St. Petersburg Northeast","2020 Totals","Total WW Flows (MGD)",7.49
-"Pinellas","St. Petersburg Northeast","2020 Totals","Total Reuse (MGD)",NA
-"Pinellas","St. Petersburg Northeast","2020 Totals","Supplemental Flows (MGD)",NA
-"Pinellas","St. Petersburg Northeast","2020 Totals","WW Disposal (MGD)",NA
-"Pinellas","St. Petersburg Northeast","2045 Projected Additional","WW Flow Projection (MGD)",NA
-"Pinellas","St. Petersburg Northeast","2045 Projected Additional","Supplemental Flows (MGD)",NA
-"Pinellas","St. Petersburg Northeast","2045 Projected Totals","Total WW Flows (MGD)",7.49
-"Pinellas","St. Petersburg Northeast","2045 Projected Totals","Supplemental Flows (MGD)",NA
-"Pinellas","St. Petersburg Northeast","2045 Projected Totals","Total Reuse (MGD)",NA
-"Pinellas","St. Petersburg Northeast","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",NA
+"Pinellas","On Top of the World Clearwater","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.3
+"Pinellas","Pinellas North - Dunn","Total Service Area Population","2020",NA
+"Pinellas","Pinellas North - Dunn","Total Service Area Population","2045",NA
+"Pinellas","Pinellas North - Dunn","Septic Population","2020",NA
+"Pinellas","Pinellas North - Dunn","Septic Population","2045",NA
+"Pinellas","Pinellas North - Dunn","Adjusted Service Area Population","2020",NA
+"Pinellas","Pinellas North - Dunn","Adjusted Service Area Population","2045",NA
+"Pinellas","Pinellas North - Dunn","Adjusted Service Area Population","2020-2045 Population Increase",NA
+"Pinellas","Pinellas North - Dunn","2020 Totals","Total WW Flows (MGD)",7.15
+"Pinellas","Pinellas North - Dunn","2020 Totals","Total Reuse (MGD)",7.39
+"Pinellas","Pinellas North - Dunn","2020 Totals","Supplemental Flows (MGD)",NA
+"Pinellas","Pinellas North - Dunn","2020 Totals","WW Disposal (MGD)",NA
+"Pinellas","Pinellas North - Dunn","2045 Projected Additional","WW Flow Projection (MGD)",NA
+"Pinellas","Pinellas North - Dunn","2045 Projected Additional","Supplemental Flows (MGD)",NA
+"Pinellas","Pinellas North - Dunn","2045 Projected Totals","Total WW Flows (MGD)",7.15
+"Pinellas","Pinellas North - Dunn","2045 Projected Totals","Supplemental Flows (MGD)",NA
+"Pinellas","Pinellas North - Dunn","2045 Projected Totals","Total Reuse (MGD)",7.39
+"Pinellas","Pinellas North - Dunn","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",5.54
+"Pinellas","Pinellas South - Southcross","Total Service Area Population","2020",358433
+"Pinellas","Pinellas South - Southcross","Total Service Area Population","2045",369191
+"Pinellas","Pinellas South - Southcross","Septic Population","2020",1420
+"Pinellas","Pinellas South - Southcross","Septic Population","2045",1514
+"Pinellas","Pinellas South - Southcross","Adjusted Service Area Population","2020",357013
+"Pinellas","Pinellas South - Southcross","Adjusted Service Area Population","2045",367677
+"Pinellas","Pinellas South - Southcross","Adjusted Service Area Population","2020-2045 Population Increase",10664
+"Pinellas","Pinellas South - Southcross","2020 Totals","Total WW Flows (MGD)",20.49
+"Pinellas","Pinellas South - Southcross","2020 Totals","Total Reuse (MGD)",10.72
+"Pinellas","Pinellas South - Southcross","2020 Totals","Supplemental Flows (MGD)",NA
+"Pinellas","Pinellas South - Southcross","2020 Totals","WW Disposal (MGD)",8.25
+"Pinellas","Pinellas South - Southcross","2045 Projected Additional","WW Flow Projection (MGD)",0.74
+"Pinellas","Pinellas South - Southcross","2045 Projected Additional","Supplemental Flows (MGD)",NA
+"Pinellas","Pinellas South - Southcross","2045 Projected Totals","Total WW Flows (MGD)",21.23
+"Pinellas","Pinellas South - Southcross","2045 Projected Totals","Supplemental Flows (MGD)",NA
+"Pinellas","Pinellas South - Southcross","2045 Projected Totals","Total Reuse (MGD)",11.46
+"Pinellas","Pinellas South - Southcross","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",8.59
+"Pinellas","St. Petersburg - Southwest","Total Service Area Population","2020",301461
+"Pinellas","St. Petersburg - Southwest","Total Service Area Population","2045",313950
+"Pinellas","St. Petersburg - Southwest","Septic Population","2020",24
+"Pinellas","St. Petersburg - Southwest","Septic Population","2045",24
+"Pinellas","St. Petersburg - Southwest","Adjusted Service Area Population","2020",301437
+"Pinellas","St. Petersburg - Southwest","Adjusted Service Area Population","2045",313926
+"Pinellas","St. Petersburg - Southwest","Adjusted Service Area Population","2020-2045 Population Increase",12489
+"Pinellas","St. Petersburg - Southwest","2020 Totals","Total WW Flows (MGD)",14.68
+"Pinellas","St. Petersburg - Southwest","2020 Totals","Total Reuse (MGD)",21.63
+"Pinellas","St. Petersburg - Southwest","2020 Totals","Supplemental Flows (MGD)",NA
+"Pinellas","St. Petersburg - Southwest","2020 Totals","WW Disposal (MGD)",NA
+"Pinellas","St. Petersburg - Southwest","2045 Projected Additional","WW Flow Projection (MGD)",0.87
+"Pinellas","St. Petersburg - Southwest","2045 Projected Additional","Supplemental Flows (MGD)",NA
+"Pinellas","St. Petersburg - Southwest","2045 Projected Totals","Total WW Flows (MGD)",15.55
+"Pinellas","St. Petersburg - Southwest","2045 Projected Totals","Supplemental Flows (MGD)",NA
+"Pinellas","St. Petersburg - Southwest","2045 Projected Totals","Total Reuse (MGD)",22.5
+"Pinellas","St. Petersburg - Southwest","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",16.87
+"Pinellas","St. Petersburg - Northwest","Total Service Area Population","2020",NA
+"Pinellas","St. Petersburg - Northwest","Total Service Area Population","2045",NA
+"Pinellas","St. Petersburg - Northwest","Septic Population","2020",NA
+"Pinellas","St. Petersburg - Northwest","Septic Population","2045",NA
+"Pinellas","St. Petersburg - Northwest","Adjusted Service Area Population","2020",NA
+"Pinellas","St. Petersburg - Northwest","Adjusted Service Area Population","2045",NA
+"Pinellas","St. Petersburg - Northwest","Adjusted Service Area Population","2020-2045 Population Increase",NA
+"Pinellas","St. Petersburg - Northwest","2020 Totals","Total WW Flows (MGD)",8.9
+"Pinellas","St. Petersburg - Northwest","2020 Totals","Total Reuse (MGD)",NA
+"Pinellas","St. Petersburg - Northwest","2020 Totals","Supplemental Flows (MGD)",NA
+"Pinellas","St. Petersburg - Northwest","2020 Totals","WW Disposal (MGD)",NA
+"Pinellas","St. Petersburg - Northwest","2045 Projected Additional","WW Flow Projection (MGD)",NA
+"Pinellas","St. Petersburg - Northwest","2045 Projected Additional","Supplemental Flows (MGD)",NA
+"Pinellas","St. Petersburg - Northwest","2045 Projected Totals","Total WW Flows (MGD)",8.9
+"Pinellas","St. Petersburg - Northwest","2045 Projected Totals","Supplemental Flows (MGD)",NA
+"Pinellas","St. Petersburg - Northwest","2045 Projected Totals","Total Reuse (MGD)",NA
+"Pinellas","St. Petersburg - Northwest","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",NA
+"Pinellas","St. Petersburg - Northeast","Total Service Area Population","2020",NA
+"Pinellas","St. Petersburg - Northeast","Total Service Area Population","2045",NA
+"Pinellas","St. Petersburg - Northeast","Septic Population","2020",NA
+"Pinellas","St. Petersburg - Northeast","Septic Population","2045",NA
+"Pinellas","St. Petersburg - Northeast","Adjusted Service Area Population","2020",NA
+"Pinellas","St. Petersburg - Northeast","Adjusted Service Area Population","2045",NA
+"Pinellas","St. Petersburg - Northeast","Adjusted Service Area Population","2020-2045 Population Increase",NA
+"Pinellas","St. Petersburg - Northeast","2020 Totals","Total WW Flows (MGD)",7.49
+"Pinellas","St. Petersburg - Northeast","2020 Totals","Total Reuse (MGD)",NA
+"Pinellas","St. Petersburg - Northeast","2020 Totals","Supplemental Flows (MGD)",NA
+"Pinellas","St. Petersburg - Northeast","2020 Totals","WW Disposal (MGD)",NA
+"Pinellas","St. Petersburg - Northeast","2045 Projected Additional","WW Flow Projection (MGD)",NA
+"Pinellas","St. Petersburg - Northeast","2045 Projected Additional","Supplemental Flows (MGD)",NA
+"Pinellas","St. Petersburg - Northeast","2045 Projected Totals","Total WW Flows (MGD)",7.49
+"Pinellas","St. Petersburg - Northeast","2045 Projected Totals","Supplemental Flows (MGD)",NA
+"Pinellas","St. Petersburg - Northeast","2045 Projected Totals","Total Reuse (MGD)",NA
+"Pinellas","St. Petersburg - Northeast","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",NA
 "Pinellas","Tarpon Springs","Total Service Area Population","2020",28232
 "Pinellas","Tarpon Springs","Total Service Area Population","2045",31682
 "Pinellas","Tarpon Springs","Septic Population","2020",1190
@@ -1851,7 +1851,7 @@
 "Pinellas","Tarpon Springs","2045 Projected Totals","Total WW Flows (MGD)",2.24
 "Pinellas","Tarpon Springs","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Pinellas","Tarpon Springs","2045 Projected Totals","Total Reuse (MGD)",1.66
-"Pinellas","Tarpon Springs","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",1.24
+"Pinellas","Tarpon Springs","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",1.24
 "Charlotte","Charlotte County Burnt Store","Total Service Area Population","2020",8152
 "Charlotte","Charlotte County Burnt Store","Total Service Area Population","2045",9409
 "Charlotte","Charlotte County Burnt Store","Septic Population","2020",1426
@@ -1868,7 +1868,7 @@
 "Charlotte","Charlotte County Burnt Store","2045 Projected Totals","Total WW Flows (MGD)",0.41
 "Charlotte","Charlotte County Burnt Store","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Charlotte","Charlotte County Burnt Store","2045 Projected Totals","Total Reuse (MGD)",0.13
-"Charlotte","Charlotte County Burnt Store","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.1
+"Charlotte","Charlotte County Burnt Store","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.1
 "Charlotte","Charlotte County East Port","Total Service Area Population","2020",126698
 "Charlotte","Charlotte County East Port","Total Service Area Population","2045",153085
 "Charlotte","Charlotte County East Port","Septic Population","2020",26209
@@ -1885,7 +1885,7 @@
 "Charlotte","Charlotte County East Port","2045 Projected Totals","Total WW Flows (MGD)",8
 "Charlotte","Charlotte County East Port","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Charlotte","Charlotte County East Port","2045 Projected Totals","Total Reuse (MGD)",4.63
-"Charlotte","Charlotte County East Port","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",3.47
+"Charlotte","Charlotte County East Port","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",3.47
 "Charlotte","Charlotte County West Port","Total Service Area Population","2020",NA
 "Charlotte","Charlotte County West Port","Total Service Area Population","2045",NA
 "Charlotte","Charlotte County West Port","Septic Population","2020",NA
@@ -1902,7 +1902,7 @@
 "Charlotte","Charlotte County West Port","2045 Projected Totals","Total WW Flows (MGD)",NA
 "Charlotte","Charlotte County West Port","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Charlotte","Charlotte County West Port","2045 Projected Totals","Total Reuse (MGD)",NA
-"Charlotte","Charlotte County West Port","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",NA
+"Charlotte","Charlotte County West Port","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",NA
 "Charlotte","Charlotte County Rotonda","Total Service Area Population","2020",NA
 "Charlotte","Charlotte County Rotonda","Total Service Area Population","2045",NA
 "Charlotte","Charlotte County Rotonda","Septic Population","2020",NA
@@ -1919,7 +1919,7 @@
 "Charlotte","Charlotte County Rotonda","2045 Projected Totals","Total WW Flows (MGD)",NA
 "Charlotte","Charlotte County Rotonda","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Charlotte","Charlotte County Rotonda","2045 Projected Totals","Total Reuse (MGD)",NA
-"Charlotte","Charlotte County Rotonda","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",NA
+"Charlotte","Charlotte County Rotonda","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",NA
 "Charlotte","Englewood","Total Service Area Population","2020",27001
 "Charlotte","Englewood","Total Service Area Population","2045",31984
 "Charlotte","Englewood","Septic Population","2020",728
@@ -1936,7 +1936,7 @@
 "Charlotte","Englewood","2045 Projected Totals","Total WW Flows (MGD)",1.78
 "Charlotte","Englewood","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Charlotte","Englewood","2045 Projected Totals","Total Reuse (MGD)",1.51
-"Charlotte","Englewood","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",1.13
+"Charlotte","Englewood","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",1.13
 "Charlotte","Punta Gorda","Total Service Area Population","2020",32904
 "Charlotte","Punta Gorda","Total Service Area Population","2045",40915
 "Charlotte","Punta Gorda","Septic Population","2020",1078
@@ -1953,7 +1953,7 @@
 "Charlotte","Punta Gorda","2045 Projected Totals","Total WW Flows (MGD)",3.01
 "Charlotte","Punta Gorda","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Charlotte","Punta Gorda","2045 Projected Totals","Total Reuse (MGD)",0.55
-"Charlotte","Punta Gorda","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.42
+"Charlotte","Punta Gorda","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.42
 "Charlotte","Riverwood","Total Service Area Population","2020",2252
 "Charlotte","Riverwood","Total Service Area Population","2045",4010
 "Charlotte","Riverwood","Septic Population","2020",NA
@@ -1970,7 +1970,7 @@
 "Charlotte","Riverwood","2045 Projected Totals","Total WW Flows (MGD)",0.25
 "Charlotte","Riverwood","2045 Projected Totals","Supplemental Flows (MGD)",0.54
 "Charlotte","Riverwood","2045 Projected Totals","Total Reuse (MGD)",1.56
-"Charlotte","Riverwood","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",1.17
+"Charlotte","Riverwood","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",1.17
 "DeSoto","Arcadia-Tyson","Total Service Area Population","2020",9861
 "DeSoto","Arcadia-Tyson","Total Service Area Population","2045",10396
 "DeSoto","Arcadia-Tyson","Septic Population","2020",506
@@ -1987,7 +1987,7 @@
 "DeSoto","Arcadia-Tyson","2045 Projected Totals","Total WW Flows (MGD)",0.79
 "DeSoto","Arcadia-Tyson","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "DeSoto","Arcadia-Tyson","2045 Projected Totals","Total Reuse (MGD)",0.27
-"DeSoto","Arcadia-Tyson","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.2
+"DeSoto","Arcadia-Tyson","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.2
 "DeSoto","Desoto Co Regional","Total Service Area Population","2020",5197
 "DeSoto","Desoto Co Regional","Total Service Area Population","2045",5824
 "DeSoto","Desoto Co Regional","Septic Population","2020",650
@@ -2004,7 +2004,7 @@
 "DeSoto","Desoto Co Regional","2045 Projected Totals","Total WW Flows (MGD)",0.37
 "DeSoto","Desoto Co Regional","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "DeSoto","Desoto Co Regional","2045 Projected Totals","Total Reuse (MGD)",0.04
-"DeSoto","Desoto Co Regional","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.03
+"DeSoto","Desoto Co Regional","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.03
 "Manatee","Manatee County Southwest","Total Service Area Population","2020",335983
 "Manatee","Manatee County Southwest","Total Service Area Population","2045",424070
 "Manatee","Manatee County Southwest","Septic Population","2020",6698
@@ -2021,41 +2021,41 @@
 "Manatee","Manatee County Southwest","2045 Projected Totals","Total WW Flows (MGD)",18.92
 "Manatee","Manatee County Southwest","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Manatee","Manatee County Southwest","2045 Projected Totals","Total Reuse (MGD)",22.92
-"Manatee","Manatee County Southwest","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",17.19
-"Manatee","Manatee County Southeast","Total Service Area Population","2020",NA
-"Manatee","Manatee County Southeast","Total Service Area Population","2045",NA
-"Manatee","Manatee County Southeast","Septic Population","2020",NA
-"Manatee","Manatee County Southeast","Septic Population","2045",NA
-"Manatee","Manatee County Southeast","Adjusted Service Area Population","2020",NA
-"Manatee","Manatee County Southeast","Adjusted Service Area Population","2045",NA
-"Manatee","Manatee County Southeast","Adjusted Service Area Population","2020-2045 Population Increase",NA
-"Manatee","Manatee County Southeast","2020 Totals","Total WW Flows (MGD)",7.8
-"Manatee","Manatee County Southeast","2020 Totals","Total Reuse (MGD)",NA
-"Manatee","Manatee County Southeast","2020 Totals","Supplemental Flows (MGD)",NA
-"Manatee","Manatee County Southeast","2020 Totals","WW Disposal (MGD)",NA
-"Manatee","Manatee County Southeast","2045 Projected Additional","WW Flow Projection (MGD)",NA
-"Manatee","Manatee County Southeast","2045 Projected Additional","Supplemental Flows (MGD)",NA
-"Manatee","Manatee County Southeast","2045 Projected Totals","Total WW Flows (MGD)",7.8
-"Manatee","Manatee County Southeast","2045 Projected Totals","Supplemental Flows (MGD)",NA
-"Manatee","Manatee County Southeast","2045 Projected Totals","Total Reuse (MGD)",NA
-"Manatee","Manatee County Southeast","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",NA
-"Manatee","Mantee County North","Total Service Area Population","2020",NA
-"Manatee","Mantee County North","Total Service Area Population","2045",NA
-"Manatee","Mantee County North","Septic Population","2020",NA
-"Manatee","Mantee County North","Septic Population","2045",NA
-"Manatee","Mantee County North","Adjusted Service Area Population","2020",NA
-"Manatee","Mantee County North","Adjusted Service Area Population","2045",NA
-"Manatee","Mantee County North","Adjusted Service Area Population","2020-2045 Population Increase",NA
-"Manatee","Mantee County North","2020 Totals","Total WW Flows (MGD)",3.8
-"Manatee","Mantee County North","2020 Totals","Total Reuse (MGD)",NA
-"Manatee","Mantee County North","2020 Totals","Supplemental Flows (MGD)",NA
-"Manatee","Mantee County North","2020 Totals","WW Disposal (MGD)",NA
-"Manatee","Mantee County North","2045 Projected Additional","WW Flow Projection (MGD)",NA
-"Manatee","Mantee County North","2045 Projected Additional","Supplemental Flows (MGD)",NA
-"Manatee","Mantee County North","2045 Projected Totals","Total WW Flows (MGD)",3.8
-"Manatee","Mantee County North","2045 Projected Totals","Supplemental Flows (MGD)",NA
-"Manatee","Mantee County North","2045 Projected Totals","Total Reuse (MGD)",NA
-"Manatee","Mantee County North","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",NA
+"Manatee","Manatee County Southwest","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",17.19
+"Manatee","Manatee County - Southeast","Total Service Area Population","2020",NA
+"Manatee","Manatee County - Southeast","Total Service Area Population","2045",NA
+"Manatee","Manatee County - Southeast","Septic Population","2020",NA
+"Manatee","Manatee County - Southeast","Septic Population","2045",NA
+"Manatee","Manatee County - Southeast","Adjusted Service Area Population","2020",NA
+"Manatee","Manatee County - Southeast","Adjusted Service Area Population","2045",NA
+"Manatee","Manatee County - Southeast","Adjusted Service Area Population","2020-2045 Population Increase",NA
+"Manatee","Manatee County - Southeast","2020 Totals","Total WW Flows (MGD)",7.8
+"Manatee","Manatee County - Southeast","2020 Totals","Total Reuse (MGD)",NA
+"Manatee","Manatee County - Southeast","2020 Totals","Supplemental Flows (MGD)",NA
+"Manatee","Manatee County - Southeast","2020 Totals","WW Disposal (MGD)",NA
+"Manatee","Manatee County - Southeast","2045 Projected Additional","WW Flow Projection (MGD)",NA
+"Manatee","Manatee County - Southeast","2045 Projected Additional","Supplemental Flows (MGD)",NA
+"Manatee","Manatee County - Southeast","2045 Projected Totals","Total WW Flows (MGD)",7.8
+"Manatee","Manatee County - Southeast","2045 Projected Totals","Supplemental Flows (MGD)",NA
+"Manatee","Manatee County - Southeast","2045 Projected Totals","Total Reuse (MGD)",NA
+"Manatee","Manatee County - Southeast","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",NA
+"Manatee","Manatee County - North","Total Service Area Population","2020",NA
+"Manatee","Manatee County - North","Total Service Area Population","2045",NA
+"Manatee","Manatee County - North","Septic Population","2020",NA
+"Manatee","Manatee County - North","Septic Population","2045",NA
+"Manatee","Manatee County - North","Adjusted Service Area Population","2020",NA
+"Manatee","Manatee County - North","Adjusted Service Area Population","2045",NA
+"Manatee","Manatee County - North","Adjusted Service Area Population","2020-2045 Population Increase",NA
+"Manatee","Manatee County - North","2020 Totals","Total WW Flows (MGD)",3.8
+"Manatee","Manatee County - North","2020 Totals","Total Reuse (MGD)",NA
+"Manatee","Manatee County - North","2020 Totals","Supplemental Flows (MGD)",NA
+"Manatee","Manatee County - North","2020 Totals","WW Disposal (MGD)",NA
+"Manatee","Manatee County - North","2045 Projected Additional","WW Flow Projection (MGD)",NA
+"Manatee","Manatee County - North","2045 Projected Additional","Supplemental Flows (MGD)",NA
+"Manatee","Manatee County - North","2045 Projected Totals","Total WW Flows (MGD)",3.8
+"Manatee","Manatee County - North","2045 Projected Totals","Supplemental Flows (MGD)",NA
+"Manatee","Manatee County - North","2045 Projected Totals","Total Reuse (MGD)",NA
+"Manatee","Manatee County - North","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",NA
 "Manatee","Palmetto","Total Service Area Population","2020",14267
 "Manatee","Palmetto","Total Service Area Population","2045",15146
 "Manatee","Palmetto","Septic Population","2020",204
@@ -2072,7 +2072,7 @@
 "Manatee","Palmetto","2045 Projected Totals","Total WW Flows (MGD)",1.54
 "Manatee","Palmetto","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Manatee","Palmetto","2045 Projected Totals","Total Reuse (MGD)",1.06
-"Manatee","Palmetto","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.8
+"Manatee","Palmetto","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.8
 "Manatee","Bradenton","Total Service Area Population","2020",56829
 "Manatee","Bradenton","Total Service Area Population","2045",59463
 "Manatee","Bradenton","Septic Population","2020",2
@@ -2089,7 +2089,7 @@
 "Manatee","Bradenton","2045 Projected Totals","Total WW Flows (MGD)",6.1
 "Manatee","Bradenton","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Manatee","Bradenton","2045 Projected Totals","Total Reuse (MGD)",2.94
-"Manatee","Bradenton","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",2.21
+"Manatee","Bradenton","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",2.21
 "Sarasota","North Port","Total Service Area Population","2020",83965
 "Sarasota","North Port","Total Service Area Population","2045",115460
 "Sarasota","North Port","Septic Population","2020",44192
@@ -2106,7 +2106,7 @@
 "Sarasota","North Port","2045 Projected Totals","Total WW Flows (MGD)",4.68
 "Sarasota","North Port","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Sarasota","North Port","2045 Projected Totals","Total Reuse (MGD)",3.08
-"Sarasota","North Port","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",2.31
+"Sarasota","North Port","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",2.31
 "Sarasota","North Port Southwest Regional","Total Service Area Population","2020",NA
 "Sarasota","North Port Southwest Regional","Total Service Area Population","2045",NA
 "Sarasota","North Port Southwest Regional","Septic Population","2020",NA
@@ -2123,7 +2123,7 @@
 "Sarasota","North Port Southwest Regional","2045 Projected Totals","Total WW Flows (MGD)",0.41
 "Sarasota","North Port Southwest Regional","2045 Projected Totals","Supplemental Flows (MGD)",1.13
 "Sarasota","North Port Southwest Regional","2045 Projected Totals","Total Reuse (MGD)",1.13
-"Sarasota","North Port Southwest Regional","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.85
+"Sarasota","North Port Southwest Regional","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.85
 "Sarasota","Sarasota Co Bee Ridge","Total Service Area Population","2020",168973
 "Sarasota","Sarasota Co Bee Ridge","Total Service Area Population","2045",178816
 "Sarasota","Sarasota Co Bee Ridge","Septic Population","2020",7107
@@ -2140,7 +2140,7 @@
 "Sarasota","Sarasota Co Bee Ridge","2045 Projected Totals","Total WW Flows (MGD)",7.42
 "Sarasota","Sarasota Co Bee Ridge","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Sarasota","Sarasota Co Bee Ridge","2045 Projected Totals","Total Reuse (MGD)",8.1
-"Sarasota","Sarasota Co Bee Ridge","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",6.08
+"Sarasota","Sarasota Co Bee Ridge","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",6.08
 "Sarasota","Sarasota Co Central","Total Service Area Population","2020",NA
 "Sarasota","Sarasota Co Central","Total Service Area Population","2045",NA
 "Sarasota","Sarasota Co Central","Septic Population","2020",NA
@@ -2157,7 +2157,7 @@
 "Sarasota","Sarasota Co Central","2045 Projected Totals","Total WW Flows (MGD)",5.38
 "Sarasota","Sarasota Co Central","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Sarasota","Sarasota Co Central","2045 Projected Totals","Total Reuse (MGD)",NA
-"Sarasota","Sarasota Co Central","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",NA
+"Sarasota","Sarasota Co Central","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",NA
 "Sarasota","Sarasota Co Venice Gardens","Total Service Area Population","2020",NA
 "Sarasota","Sarasota Co Venice Gardens","Total Service Area Population","2045",NA
 "Sarasota","Sarasota Co Venice Gardens","Septic Population","2020",NA
@@ -2174,7 +2174,7 @@
 "Sarasota","Sarasota Co Venice Gardens","2045 Projected Totals","Total WW Flows (MGD)",2.52
 "Sarasota","Sarasota Co Venice Gardens","2045 Projected Totals","Supplemental Flows (MGD)",0.56
 "Sarasota","Sarasota Co Venice Gardens","2045 Projected Totals","Total Reuse (MGD)",2.81
-"Sarasota","Sarasota Co Venice Gardens","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",2.11
+"Sarasota","Sarasota Co Venice Gardens","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",2.11
 "Sarasota","Sarasota-City","Total Service Area Population","2020",42213
 "Sarasota","Sarasota-City","Total Service Area Population","2045",43736
 "Sarasota","Sarasota-City","Septic Population","2020",65
@@ -2191,7 +2191,7 @@
 "Sarasota","Sarasota-City","2045 Projected Totals","Total WW Flows (MGD)",6.8
 "Sarasota","Sarasota-City","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Sarasota","Sarasota-City","2045 Projected Totals","Total Reuse (MGD)",3.76
-"Sarasota","Sarasota-City","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",2.82
+"Sarasota","Sarasota-City","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",2.82
 "Sarasota","Venice City Eastside","Total Service Area Population","2020",19589
 "Sarasota","Venice City Eastside","Total Service Area Population","2045",22292
 "Sarasota","Venice City Eastside","Septic Population","2020",161
@@ -2208,7 +2208,7 @@
 "Sarasota","Venice City Eastside","2045 Projected Totals","Total WW Flows (MGD)",3.36
 "Sarasota","Venice City Eastside","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Sarasota","Venice City Eastside","2045 Projected Totals","Total Reuse (MGD)",2.78
-"Sarasota","Venice City Eastside","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",2.09
+"Sarasota","Venice City Eastside","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",2.09
 "Sarasota","Camelot Lakes","Total Service Area Population","2020",1720
 "Sarasota","Camelot Lakes","Total Service Area Population","2045",1720
 "Sarasota","Camelot Lakes","Septic Population","2020",NA
@@ -2225,4 +2225,4 @@
 "Sarasota","Camelot Lakes","2045 Projected Totals","Total WW Flows (MGD)",0.08
 "Sarasota","Camelot Lakes","2045 Projected Totals","Supplemental Flows (MGD)",NA
 "Sarasota","Camelot Lakes","2045 Projected Totals","Total Reuse (MGD)",0.07
-"Sarasota","Camelot Lakes","2045 Projected Totals","Beneficial Reuse @ 75% (MGD)",0.05
+"Sarasota","Camelot Lakes","2045 Projected Totals","Beneficial Reuse at 75% (MGD)",0.05
